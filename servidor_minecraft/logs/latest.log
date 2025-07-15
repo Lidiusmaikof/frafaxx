@@ -1213,3 +1213,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:30:29.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Disconnected
 [15Jul2025 20:30:29.843] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
 [15Jul2025 20:30:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game
+[15Jul2025 20:48:28.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has reached the goal [Flowers of the Savanna]
+[15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Stampy!]
+[15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Best Friends Forever]
+[15Jul2025 20:49:34.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[15Jul2025 20:49:34.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection

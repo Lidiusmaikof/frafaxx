@@ -9615,3 +9615,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:31:25.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 20:36:25.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 20:36:25.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:41:25.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:41:25.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:44:20.135] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[15Jul2025 20:46:25.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:46:25.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:46:54.844] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-7658, y=71, z=3454} BlockPos{x=-7659, y=69, z=3455}
+[15Jul2025 20:46:55.039] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-7658, y=71, z=3454} BlockPos{x=-7659, y=69, z=3455}
+[15Jul2025 20:48:28.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has reached the goal [Flowers of the Savanna]
+[15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Stampy!]
+[15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Best Friends Forever]
+[15Jul2025 20:49:34.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[15Jul2025 20:49:34.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
