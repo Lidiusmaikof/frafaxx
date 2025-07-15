@@ -9533,3 +9533,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:27:12.525] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
 [15Jul2025 19:27:12.526] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$60ff7d65220942198c1d75bdd775e987 (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
 [15Jul2025 19:27:16.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[15Jul2025 19:31:25.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:31:25.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:35:15.027] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.EnchantmentContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.EnchantmentMenu$1
+[15Jul2025 19:36:25.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:36:25.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:37:03.244] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.GrindstoneMenu$1
+[15Jul2025 19:37:19.912] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easymagic/world/inventory/ModEnchantmentMenu$4
