@@ -1235,3 +1235,27 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 21:11:07.765] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
 [15Jul2025 21:11:07.767] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
 [15Jul2025 21:11:07.767] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:11:38.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/23649, l='ServerLevel[world]', x=-7824.50, y=6.00, z=5596.50]
+[15Jul2025 21:11:59.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[15Jul2025 21:13:18.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26556, l='ServerLevel[world]', x=-7950.50, y=21.00, z=5871.50]
+[15Jul2025 21:13:25.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.38075899832074356
+[15Jul2025 21:13:25.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.3870418707792851
+[15Jul2025 21:13:43.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26729, l='ServerLevel[world]', x=-7947.50, y=23.00, z=5867.50]
+[15Jul2025 21:15:35.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.2936597804146004
+[15Jul2025 21:15:35.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.40426902338094806
+[15Jul2025 21:15:35.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.34012630173128855
+[15Jul2025 21:15:35.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.6048615697282003
+[15Jul2025 21:15:35.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.8123913747476763
+[15Jul2025 21:15:35.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 1.0901680026163376
+[15Jul2025 21:18:59.496] [Worker-Main-148/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[15Jul2025 21:19:28.950] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[15Jul2025 21:19:28.952] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[15Jul2025 21:19:28.952] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[15Jul2025 21:19:28.958] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[15Jul2025 21:19:28.958] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[15Jul2025 21:19:28.958] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[15Jul2025 21:19:30.683] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[15Jul2025 21:19:30.683] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[15Jul2025 21:19:31.064] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[15Jul2025 21:19:31.064] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[15Jul2025 21:19:31.070] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
