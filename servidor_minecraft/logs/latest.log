@@ -1224,3 +1224,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:54:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.7350734539959376
 [15Jul2025 20:54:47.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.1790565804167272
 [15Jul2025 20:54:47.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.6230409886811685
+[15Jul2025 21:07:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: LastSamurai
+[15Jul2025 21:07:09.486] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[15Jul2025 21:07:09.486] [Server thread/INFO] [Console/]: Current Memory Usage: 1788/4096 mb (Max: 12288 mb)
+[15Jul2025 21:08:01.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.3689061624754686
+[15Jul2025 21:08:01.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.561664659507187
+[15Jul2025 21:08:01.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.7351473022399659
+[15Jul2025 21:08:01.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.891281676563267
+[15Jul2025 21:10:14.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[15Jul2025 21:11:07.765] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:11:07.767] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:11:07.767] [Worker-Main-148/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
