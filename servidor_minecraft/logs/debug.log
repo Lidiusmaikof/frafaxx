@@ -9570,3 +9570,29 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:59:17.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
 [15Jul2025 19:59:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
 [15Jul2025 19:59:18.213] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 20:00:32.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp VenaticWinner67 LastSamurai
+[15Jul2025 20:00:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to LastSamurai]
+[15Jul2025 20:01:25.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:01:25.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:01:43.823] [Worker-Main-14/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[15Jul2025 20:01:43.825] [Worker-Main-15/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.server.level.WorldGenRegion
+[15Jul2025 20:01:43.825] [Worker-Main-15/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jul2025 20:01:43.825] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jul2025 20:01:44.294] [Worker-Main-14/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[15Jul2025 20:01:44.295] [Worker-Main-14/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[15Jul2025 20:01:44.312] [Worker-Main-13/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/NoiseChunk$2
+[15Jul2025 20:01:44.566] [Worker-Main-94/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[15Jul2025 20:01:45.260] [Worker-Main-94/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/core/BlockPos$5
+[15Jul2025 20:01:45.291] [Worker-Main-94/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/Entity$1
+[15Jul2025 20:01:47.484] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_1 is being run through DFU (hash f33348679c61f085ea796174eb5756e668b6d051c9721b1d9090d04667a0f4f4), this will cause launch time delays
+[15Jul2025 20:01:47.536] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_2 is being run through DFU (hash 72a6a69c4455c2899ed255d2e47c06e16586e99461fdc851d097d0e1833fb76d), this will cause launch time delays
+[15Jul2025 20:02:00.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[15Jul2025 20:02:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[15Jul2025 20:02:20.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[15Jul2025 20:02:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[15Jul2025 20:02:20.877] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 20:03:03.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /time set 0
+[15Jul2025 20:03:03.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
+[15Jul2025 20:03:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set the time to 0]
+[15Jul2025 20:06:25.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:06:25.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
