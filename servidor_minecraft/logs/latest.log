@@ -1121,3 +1121,44 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:04:53.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
 [15Jul2025 19:04:53.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
 [15Jul2025 19:05:03.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Jul2025 19:06:20.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp permission
+[15Jul2025 19:06:42.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /permission
+[15Jul2025 19:07:16.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp console
+[15Jul2025 19:08:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made VenaticWinner67 a server operator
+[15Jul2025 19:08:04.280] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:08:46.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp editor
+[15Jul2025 19:08:47.800] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 19:08:47.908] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:09:10.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/Event$Result
+[15Jul2025 19:09:10.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryAction
+[15Jul2025 19:09:10.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/Action
+[15Jul2025 19:09:10.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[15Jul2025 19:09:10.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/FluidCollisionMode
+[15Jul2025 19:09:10.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerAnimationType
+[15Jul2025 19:09:12.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp trusteditor f463-c5e1
+[15Jul2025 19:09:13.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:09:17.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
+[15Jul2025 19:09:53.900] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.901] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voice true
+[15Jul2025 19:09:53.902] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.902] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat true
+[15Jul2025 19:09:53.904] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.904] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat.listen true
+[15Jul2025 19:09:53.905] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.905] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat.speak true
+[15Jul2025 19:09:54.645] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:09:54.655] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 19:10:24.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityUnleashEvent$UnleashReason
+[15Jul2025 19:10:30.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[15Jul2025 19:10:30.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[15Jul2025 19:10:34.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[15Jul2025 19:10:36.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
+[15Jul2025 19:11:14.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryType$SlotType
+[15Jul2025 19:11:14.195] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/ClickType
+[15Jul2025 19:16:21.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerExpCooldownChangeEvent$ChangeReason
+[15Jul2025 19:16:34.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[15Jul2025 19:17:19.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Jul2025 19:17:19.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[15Jul2025 19:18:54.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[15Jul2025 19:18:56.897] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15Jul2025 19:18:56.902] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzz

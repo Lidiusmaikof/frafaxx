@@ -9395,3 +9395,102 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:04:53.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
 [15Jul2025 19:04:53.928] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
 [15Jul2025 19:05:03.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Jul2025 19:05:51.118] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/lucko/luckperms/common/command/abstraction/GenericChildCommand$1
+[15Jul2025 19:06:20.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp permission
+[15Jul2025 19:06:25.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:06:25.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:06:42.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /permission
+[15Jul2025 19:06:58.393] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[15Jul2025 19:06:58.401] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyUtilMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.util.CraftLegacy
+[15Jul2025 19:06:58.401] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$1(I)[Lorg/bukkit/Material; to md28f08c$lambda$modern_values$1$0 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[15Jul2025 19:06:58.401] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$0(Lorg/bukkit/Material;)Z to md28f08c$lambda$modern_values$0$1 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[15Jul2025 19:06:58.408] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[15Jul2025 19:07:16.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp console
+[15Jul2025 19:08:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made VenaticWinner67 a server operator
+[15Jul2025 19:08:04.280] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:08:46.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp editor
+[15Jul2025 19:08:47.030] [luckperms-command-executor/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/lucko/luckperms/common/cacheddata/HolderCachedDataManager$1
+[15Jul2025 19:08:47.324] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+[15Jul2025 19:08:47.325] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+[15Jul2025 19:08:47.325] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+[15Jul2025 19:08:47.329] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+[15Jul2025 19:08:47.331] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+[15Jul2025 19:08:47.331] [OkHttp usersockets.luckperms.net ACK Settings/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+[15Jul2025 19:08:47.361] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000003    48 HEADERS       END_STREAM|END_HEADERS
+[15Jul2025 19:08:47.376] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+[15Jul2025 19:08:47.692] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003   635 HEADERS       END_HEADERS
+[15Jul2025 19:08:47.693] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003    51 DATA          
+[15Jul2025 19:08:47.693] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+[15Jul2025 19:08:47.800] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 19:08:47.908] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:08:48.182] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000005    64 HEADERS       END_HEADERS
+[15Jul2025 19:08:48.190] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000005  2876 DATA          END_STREAM
+[15Jul2025 19:08:48.511] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005   443 HEADERS       END_HEADERS
+[15Jul2025 19:08:48.511] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005    20 DATA          
+[15Jul2025 19:08:48.511] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005     0 DATA          END_STREAM
+[15Jul2025 19:08:57.750] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
+[15Jul2025 19:09:10.569] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[15Jul2025 19:09:10.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/Event$Result
+[15Jul2025 19:09:10.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryAction
+[15Jul2025 19:09:10.571] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/event/entity/player/PlayerInteractEvent$1
+[15Jul2025 19:09:10.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/Action
+[15Jul2025 19:09:10.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[15Jul2025 19:09:10.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/FluidCollisionMode
+[15Jul2025 19:09:10.586] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$FluidCollisionMode()[I class org/bukkit/craftbukkit/v1_20_R1/CraftFluidCollisionMode
+[15Jul2025 19:09:10.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerAnimationType
+[15Jul2025 19:09:12.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /lp trusteditor f463-c5e1
+[15Jul2025 19:09:13.247] [luckperms-worker-10/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/lucko/luckperms/common/webeditor/socket/listener/WebEditorSocketListener$1
+[15Jul2025 19:09:13.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:09:17.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
+[15Jul2025 19:09:53.449] [luckperms-worker-10/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000007    24 HEADERS       END_STREAM|END_HEADERS
+[15Jul2025 19:09:53.816] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007   536 HEADERS       END_HEADERS
+[15Jul2025 19:09:53.816] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007   160 DATA          
+[15Jul2025 19:09:53.817] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007     0 DATA          END_STREAM
+[15Jul2025 19:09:53.897] [luckperms-worker-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/lucko/luckperms/common/actionlog/LoggedAction$1
+[15Jul2025 19:09:53.900] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.901] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voice true
+[15Jul2025 19:09:53.902] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.902] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat true
+[15Jul2025 19:09:53.904] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.904] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat.listen true
+[15Jul2025 19:09:53.905] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > (VenaticWinner67) [G] (default)
+[15Jul2025 19:09:53.905] [luckperms-worker-10/INFO] [Console/]: [LP] LOG > webeditor add voicechat.speak true
+[15Jul2025 19:09:53.922] [luckperms-worker-10/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000009    18 HEADERS       END_HEADERS
+[15Jul2025 19:09:53.922] [luckperms-worker-10/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000009  2221 DATA          END_STREAM
+[15Jul2025 19:09:54.268] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000009   437 HEADERS       END_HEADERS
+[15Jul2025 19:09:54.268] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000009    20 DATA          
+[15Jul2025 19:09:54.268] [luckperms-worker-10/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000009     4 RST_STREAM    
+[15Jul2025 19:09:54.268] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000009     0 DATA          END_STREAM
+[15Jul2025 19:09:54.271] [OkHttp usersockets.luckperms.net stream 9/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000009     4 RST_STREAM    
+[15Jul2025 19:09:54.645] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[15Jul2025 19:09:54.655] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 19:10:24.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityUnleashEvent$UnleashReason
+[15Jul2025 19:10:30.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[15Jul2025 19:10:30.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[15Jul2025 19:10:34.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[15Jul2025 19:10:36.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
+[15Jul2025 19:10:38.467] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$2308f03fa04346a9a922f7f06d6ee6cf (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[15Jul2025 19:10:38.473] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.world.inventory.MerchantContainer
+[15Jul2025 19:11:14.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryType$SlotType
+[15Jul2025 19:11:14.194] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventoryCustom$MinecraftInventory
+[15Jul2025 19:11:14.195] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/ClickType
+[15Jul2025 19:11:25.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:11:25.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:14:54.269] [OkHttp usersockets.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+[15Jul2025 19:16:21.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerExpCooldownChangeEvent$ChangeReason
+[15Jul2025 19:16:24.982] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[15Jul2025 19:16:24.983] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[15Jul2025 19:16:24.983] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[15Jul2025 19:16:24.984] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[15Jul2025 19:16:24.985] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[15Jul2025 19:16:25.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:16:25.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:16:30.675] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[15Jul2025 19:16:34.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[15Jul2025 19:17:19.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Jul2025 19:17:19.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[15Jul2025 19:17:44.238] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[15Jul2025 19:18:54.724] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_20_R1/event/CraftEventFactory$1
+[15Jul2025 19:18:54.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[15Jul2025 19:18:56.897] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15Jul2025 19:18:56.902] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzz
