@@ -9540,3 +9540,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:36:25.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 19:37:03.244] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.GrindstoneMenu$1
 [15Jul2025 19:37:19.912] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easymagic/world/inventory/ModEnchantmentMenu$4
+[15Jul2025 19:41:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Enchanter]
+[15Jul2025 19:41:25.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:41:25.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:42:26.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[15Jul2025 19:42:30.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[15Jul2025 19:42:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [Great minds think alike]
+[15Jul2025 19:46:25.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:46:25.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

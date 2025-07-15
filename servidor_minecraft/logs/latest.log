@@ -1184,3 +1184,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:21:26.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [15Jul2025 19:25:35.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [15Jul2025 19:27:16.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[15Jul2025 19:41:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Enchanter]
+[15Jul2025 19:42:26.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[15Jul2025 19:42:30.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[15Jul2025 19:42:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [Great minds think alike]
