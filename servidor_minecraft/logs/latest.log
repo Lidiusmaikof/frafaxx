@@ -1294,3 +1294,19 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 21:48:42.797] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
 [15Jul2025 21:48:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai was shot by Skeleton
 [15Jul2025 21:49:19.284] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 21:56:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: LastSamurai
+[15Jul2025 21:59:12.158] [Worker-Main-223/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:59:12.158] [Worker-Main-223/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:59:12.158] [Worker-Main-223/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 21:59:12.159] [Worker-Main-223/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[15Jul2025 22:02:57.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[15Jul2025 22:02:57.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[15Jul2025 22:02:57.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[15Jul2025 22:03:03.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[15Jul2025 22:03:05.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[15Jul2025 22:03:05.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[15Jul2025 22:03:17.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[15Jul2025 22:03:17.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[15Jul2025 22:03:17.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[15Jul2025 22:05:16.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LastSamurai) moved wrongly! 0.4019599863561155
+[15Jul2025 22:07:44.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/80073, l='ServerLevel[world]', x=1263.50, y=5.00, z=2316.50]
