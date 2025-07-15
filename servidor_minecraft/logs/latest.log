@@ -1162,3 +1162,25 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:18:54.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
 [15Jul2025 19:18:56.897] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [15Jul2025 19:18:56.902] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzz
+[15Jul2025 19:19:17.739] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 19.99, 19.99
+[15Jul2025 19:19:17.739] [Server thread/INFO] [Console/]: Current Memory Usage: 1117/2048 mb (Max: 12288 mb)
+[15Jul2025 19:20:08.568] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzz
+[15Jul2025 19:20:08.817] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.024] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.263] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zz
+[15Jul2025 19:20:09.521] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.749] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zz
+[15Jul2025 19:20:09.928] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.102] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.302] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.422] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.598] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.706] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.857] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.219] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.388] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.512] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:13.132] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:21:26.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[15Jul2025 19:25:35.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[15Jul2025 19:27:16.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType

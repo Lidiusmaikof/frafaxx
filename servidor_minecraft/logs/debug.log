@@ -9494,3 +9494,42 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:18:54.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
 [15Jul2025 19:18:56.897] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [15Jul2025 19:18:56.902] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzz
+[15Jul2025 19:19:17.739] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 19.99, 19.99
+[15Jul2025 19:19:17.739] [Server thread/INFO] [Console/]: Current Memory Usage: 1117/2048 mb (Max: 12288 mb)
+[15Jul2025 19:20:08.568] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzzzzzzzz
+[15Jul2025 19:20:08.817] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.024] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.263] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zz
+[15Jul2025 19:20:09.521] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:09.749] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zz
+[15Jul2025 19:20:09.928] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.102] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.302] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.422] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.598] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.706] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:10.857] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.219] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.388] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:11.512] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:13.132] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> z
+[15Jul2025 19:20:44.262] [Worker-Main-13/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/ChestBlock$4
+[15Jul2025 19:21:01.438] [Server thread/DEBUG] [ModernFix/]: Structure terralith:underground/smallminingoutpost is being run through DFU (hash 9f4d2d29abe643289f5ce6dec593e783e713721c6f3eef71ff2219e5e1a426ab), this will cause launch time delays
+[15Jul2025 19:21:16.165] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_3 is being run through DFU (hash 1fb1f3a011acba9a26f6e07662f34071686d7f8e873f64780ad8787d4b83da0a), this will cause launch time delays
+[15Jul2025 19:21:16.271] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
+[15Jul2025 19:21:16.336] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[15Jul2025 19:21:25.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:21:25.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:21:26.594] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
+[15Jul2025 19:21:26.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[15Jul2025 19:21:30.852] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/StructurePiece$1
+[15Jul2025 19:21:43.197] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class xiroc/dungeoncrawl/util/Orientation$1
+[15Jul2025 19:21:48.424] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ovh/corail/tombstone/perk/PerkTreasureSeeker$1
+[15Jul2025 19:25:35.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[15Jul2025 19:25:35.574] [Server thread/DEBUG] [mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.world.CompoundContainer
+[15Jul2025 19:25:35.576] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ChestBlock2_1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.ChestBlock$2$1
+[15Jul2025 19:26:25.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 19:26:25.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 19:27:12.525] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
+[15Jul2025 19:27:12.526] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$60ff7d65220942198c1d75bdd775e987 (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
+[15Jul2025 19:27:16.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
