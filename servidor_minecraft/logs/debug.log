@@ -9627,3 +9627,24 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Best Friends Forever]
 [15Jul2025 20:49:34.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
 [15Jul2025 20:49:34.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[15Jul2025 20:51:25.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:51:25.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:51:52.633] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BaseRailBlock$1
+[15Jul2025 20:52:02.470] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[15Jul2025 20:52:02.497] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[15Jul2025 20:52:02.551] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[15Jul2025 20:52:02.574] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[15Jul2025 20:52:11.513] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_main is being run through DFU (hash 8f26c2abd3d1eec4b5f774434255b0e8df746c1a998aa0cfaad1631f80b7dd99), this will cause launch time delays
+[15Jul2025 20:52:11.523] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_spawner_0 is being run through DFU (hash 47995b7d455eb5166033a6276249e6e9868d45362c7e7ea440b61bcfdf002229), this will cause launch time delays
+[15Jul2025 20:52:47.052] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_10 is being run through DFU (hash 60bba015de588cb33cd8f748d356e20651f83d9eb54ad236a7fea784947fae01), this will cause launch time delays
+[15Jul2025 20:53:25.681] [Worker-Main-15/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RotatedPillarBlock$1
+[15Jul2025 20:53:29.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[15Jul2025 20:54:41.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.335783702581171
+[15Jul2025 20:54:43.973] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/mehvahdjukaar/supplementaries/common/block/blocks/CandleHolderBlock$1
+[15Jul2025 20:54:47.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.29109272318510193
+[15Jul2025 20:54:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.7350734539959376
+[15Jul2025 20:54:47.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.1790565804167272
+[15Jul2025 20:54:47.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.6230409886811685
+[15Jul2025 20:55:02.131] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_02 is being run through DFU (hash 3ebfdf2002a8616f946b612714ca2aaef948e21fc0586aefefad13f6a5d00e89), this will cause launch time delays
+[15Jul2025 20:56:25.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:56:25.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

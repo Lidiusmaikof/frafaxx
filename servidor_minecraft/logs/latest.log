@@ -1218,3 +1218,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:48:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Best Friends Forever]
 [15Jul2025 20:49:34.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
 [15Jul2025 20:49:34.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[15Jul2025 20:53:29.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[15Jul2025 20:54:41.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.335783702581171
+[15Jul2025 20:54:47.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.29109272318510193
+[15Jul2025 20:54:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 0.7350734539959376
+[15Jul2025 20:54:47.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.1790565804167272
+[15Jul2025 20:54:47.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of LastSamurai) moved wrongly! 1.6230409886811685
