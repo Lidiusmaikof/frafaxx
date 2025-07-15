@@ -1207,3 +1207,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 20:03:03.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /time set 0
 [15Jul2025 20:03:03.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
 [15Jul2025 20:03:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set the time to 0]
+[15Jul2025 20:14:20.728] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzz
+[15Jul2025 20:15:10.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /time set 0
+[15Jul2025 20:15:10.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set the time to 0]
