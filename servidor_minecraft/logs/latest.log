@@ -1349,3 +1349,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 22:48:34.732] [Worker-Main-223/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
 [15Jul2025 22:48:34.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [15Jul2025 23:02:37.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[15Jul2025 23:15:59.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai fell from a high place
+[15Jul2025 23:15:59.659] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[15Jul2025 23:15:59.660] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[15Jul2025 23:16:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai fell from a high place
+[15Jul2025 23:16:09.319] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[15Jul2025 23:18:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai was slain by Ghoul
+[15Jul2025 23:18:17.885] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[15Jul2025 23:18:17.889] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[15Jul2025 23:18:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai was slain by Ghoul
+[15Jul2025 23:18:28.516] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.

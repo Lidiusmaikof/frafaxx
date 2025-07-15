@@ -6806,6 +6806,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-15 23:13:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-07-15 21:30:05 +0000"
