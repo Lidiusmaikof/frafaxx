@@ -1188,3 +1188,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 19:42:26.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [15Jul2025 19:42:30.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [15Jul2025 19:42:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [Great minds think alike]
+[15Jul2025 19:52:02.238] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, 20.0
+[15Jul2025 19:52:02.238] [Server thread/INFO] [Console/]: Current Memory Usage: 1302/2048 mb (Max: 12288 mb)
+[15Jul2025 19:54:04.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[15Jul2025 19:57:06.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Jul2025 19:58:14.527] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzzz
+[15Jul2025 19:59:17.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[15Jul2025 19:59:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[15Jul2025 19:59:18.213] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
