@@ -1071,3 +1071,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 15:44:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2362.500000, 74.500000, 4787.500000]
 [16Jul2025 15:53:05.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [16Jul2025 16:07:35.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[16Jul2025 16:17:03.925] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[16Jul2025 16:17:03.925] [Server thread/INFO] [Console/]: Current Memory Usage: 757/2048 mb (Max: 12288 mb)
