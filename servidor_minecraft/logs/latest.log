@@ -3,3 +3,5 @@
 [16Jul2025 00:01:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Hero of the Village]
 [16Jul2025 00:01:52.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/raid/RaidStopEvent$Reason
 [16Jul2025 00:02:08.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[16Jul2025 00:16:44.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[16Jul2025 00:18:38.960] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType

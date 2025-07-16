@@ -5543,9 +5543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-16 00:18:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-07-16 00:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-16 00:18:23 +0000"
     },
     "done": true
   },
@@ -5558,6 +5570,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-07-16 00:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-16 00:18:23 +0000"
     },
     "done": true
   },
