@@ -1061,3 +1061,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 15:19:35.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [16Jul2025 15:19:45.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [16Jul2025 15:23:38.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
+[16Jul2025 15:27:07.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[16Jul2025 15:27:37.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[16Jul2025 15:27:39.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[16Jul2025 15:27:55.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Jul2025 15:28:00.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Jul2025 15:37:24.652] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[16Jul2025 15:44:25.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2363 74.5 4787
+[16Jul2025 15:44:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2362.500000, 74.500000, 4787.500000]
