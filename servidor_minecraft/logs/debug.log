@@ -9216,3 +9216,83 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [15Jul2025 23:50:35.270] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2293, y=123, z=4773}) doesn't have enough leaves around top most log
 [15Jul2025 23:50:40.997] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2293, y=121, z=4773}) doesn't have enough leaves around top most log
 [15Jul2025 23:50:50.944] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[15Jul2025 23:51:24.457] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$845f410d269d4e68a45eb3982a9a2f79 (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[15Jul2025 23:51:24.462] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[15Jul2025 23:51:39.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerExpCooldownChangeEvent$ChangeReason
+[15Jul2025 23:51:44.480] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/BackpackWrapper$2
+[15Jul2025 23:51:44.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Jul2025 23:51:47.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[15Jul2025 23:51:50.553] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[15Jul2025 23:51:57.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[15Jul2025 23:52:03.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityUnleashEvent$UnleashReason
+[15Jul2025 23:52:10.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 23:52:10.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 23:52:47.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[15Jul2025 23:52:47.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player VenaticWinner67
+[15Jul2025 23:52:47.649] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Sending initial states to VenaticWinner67
+[15Jul2025 23:52:47.649] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Synchronizing 0 volume categories with VenaticWinner67
+[15Jul2025 23:52:47.649] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Synchronizing 0 groups with VenaticWinner67
+[15Jul2025 23:52:47.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[15Jul2025 23:52:47.649] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Set state of 27624550-5762-38db-a0a7-5ccd77095ef1 to disconnected: {disabled=false, disconnected=true, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[15Jul2025 23:52:54.157] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=true, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[15Jul2025 23:52:55.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[15Jul2025 23:52:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[15Jul2025 23:52:56.060] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Set state of VenaticWinner67 to connected: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[15Jul2025 23:52:56.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[15Jul2025 23:52:56.221] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[15Jul2025 23:54:32.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[15Jul2025 23:54:42.590] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Jul2025 23:54:44.491] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
+[15Jul2025 23:54:44.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[15Jul2025 23:54:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Voluntary Exile]
+[15Jul2025 23:55:24.839] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[15Jul2025 23:55:27.728] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/HopperBlock$1
+[15Jul2025 23:55:30.051] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[15Jul2025 23:55:34.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 moved too quickly! 7.3211360153345595,0.9031272476744903,14.134649144071773
+[15Jul2025 23:55:40.108] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/raid/Raid$1
+[15Jul2025 23:55:40.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaiderType
+[15Jul2025 23:55:40.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[15Jul2025 23:55:42.289] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FenceGateBlock$1
+[15Jul2025 23:55:43.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[15Jul2025 23:55:43.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[15Jul2025 23:55:43.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[15Jul2025 23:55:43.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[15Jul2025 23:55:43.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[15Jul2025 23:55:43.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[15Jul2025 23:55:43.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[15Jul2025 23:55:43.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[15Jul2025 23:55:43.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[15Jul2025 23:55:43.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[15Jul2025 23:55:43.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[15Jul2025 23:55:43.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[15Jul2025 23:55:43.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[15Jul2025 23:55:43.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[15Jul2025 23:55:43.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[15Jul2025 23:55:43.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[15Jul2025 23:55:43.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[15Jul2025 23:55:43.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[15Jul2025 23:55:43.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[15Jul2025 23:55:43.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[15Jul2025 23:55:43.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[15Jul2025 23:55:43.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[15Jul2025 23:55:43.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[15Jul2025 23:55:43.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[15Jul2025 23:55:43.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[15Jul2025 23:55:43.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[15Jul2025 23:55:43.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[15Jul2025 23:55:43.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[15Jul2025 23:55:43.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[15Jul2025 23:55:43.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[15Jul2025 23:57:02.541] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[15Jul2025 23:57:10.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 23:57:10.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 23:58:06.292] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[15Jul2025 23:58:06.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
+[15Jul2025 23:58:06.294] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[15Jul2025 23:58:06.294] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to md92ad2c$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[15Jul2025 23:58:23.419] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/animal/Sheep$2
+[15Jul2025 23:58:28.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Jul2025 23:59:11.544] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/Boat$1
+[16Jul2025 00:00:39.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[16Jul2025 00:00:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Village Defender]
+[16Jul2025 00:01:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Hero of the Village]

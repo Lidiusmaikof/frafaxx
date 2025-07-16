@@ -5536,5 +5536,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-15 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-07-15 23:51:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
