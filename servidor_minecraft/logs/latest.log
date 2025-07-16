@@ -1115,3 +1115,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 17:16:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
 [16Jul2025 17:16:58.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
 [16Jul2025 17:17:03.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
+[16Jul2025 17:19:13.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[16Jul2025 17:19:56.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[16Jul2025 17:19:56.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[16Jul2025 17:21:57.825] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/HopperInventorySearchEvent$ContainerType
+[16Jul2025 17:22:38.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[16Jul2025 17:22:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[16Jul2025 17:23:07.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[16Jul2025 17:23:07.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
