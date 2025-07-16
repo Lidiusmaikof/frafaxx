@@ -9435,3 +9435,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 02:02:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Sneak 100]
 [16Jul2025 02:03:19.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
 [16Jul2025 02:03:19.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[16Jul2025 02:07:10.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:07:10.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 02:08:20.516] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2574, y=-51, z=4490} BlockPos{x=-2575, y=-51, z=4491}
+[16Jul2025 02:12:10.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:12:10.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
