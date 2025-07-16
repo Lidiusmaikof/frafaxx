@@ -1,3 +1,5 @@
 [16Jul2025 00:00:39.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [16Jul2025 00:00:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Village Defender]
 [16Jul2025 00:01:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Hero of the Village]
+[16Jul2025 00:01:52.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/raid/RaidStopEvent$Reason
+[16Jul2025 00:02:08.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
