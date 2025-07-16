@@ -1073,3 +1073,20 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 16:07:35.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [16Jul2025 16:17:03.925] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
 [16Jul2025 16:17:03.925] [Server thread/INFO] [Console/]: Current Memory Usage: 757/2048 mb (Max: 12288 mb)
+[16Jul2025 17:02:03.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[16Jul2025 17:02:03.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player VenaticWinner67
+[16Jul2025 17:02:03.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[16Jul2025 17:02:12.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Disconnected
+[16Jul2025 17:02:12.077] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[16Jul2025 17:02:12.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game
+[16Jul2025 17:02:55.741] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:02:57.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VenaticWinner67[/100.87.58.7:51750] logged in with entity id 18401 at (-2457.8904198876567, 39.0, 4663.071611967054)
+[16Jul2025 17:02:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 joined the game
+[16Jul2025 17:02:57.978] [Server thread/INFO] [voicechat/]: Received secret request of VenaticWinner67 (18)
+[16Jul2025 17:02:57.978] [Server thread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[16Jul2025 17:03:02.406] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[16Jul2025 17:03:02.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:03:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:03:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[16Jul2025 17:05:44.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Jul2025 17:05:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
