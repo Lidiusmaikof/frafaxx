@@ -9400,3 +9400,19 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 01:31:40.326] [Worker-Main-59/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/properties/ChestType$1
 [16Jul2025 01:32:10.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 01:32:10.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 01:37:10.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 01:37:10.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 01:38:07.717] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/VerticalEntrance$1
+[16Jul2025 01:38:07.718] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/yungsapi/world/util/BoundingBoxHelper$1
+[16Jul2025 01:38:07.719] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/BigTunnel$1
+[16Jul2025 01:38:07.719] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SideRoom$1
+[16Jul2025 01:38:07.719] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SideRoomDungeon$1
+[16Jul2025 01:38:07.719] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnel$1
+[16Jul2025 01:38:07.721] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[16Jul2025 01:38:07.722] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelStairs$1
+[16Jul2025 01:38:07.722] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/LayeredIntersection5$1
+[16Jul2025 01:38:07.722] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/LayeredIntersection4$1
+[16Jul2025 01:38:07.722] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[16Jul2025 01:38:07.723] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$1
+[16Jul2025 01:42:10.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 01:42:10.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
