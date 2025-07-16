@@ -1090,3 +1090,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Jul2025 17:03:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
 [16Jul2025 17:05:44.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [16Jul2025 17:05:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[16Jul2025 17:07:07.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /summon minecraft:enderman
+[16Jul2025 17:07:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Summoned new Enderman]
+[16Jul2025 17:09:04.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[16Jul2025 17:09:04.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player VenaticWinner67
+[16Jul2025 17:09:04.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[16Jul2025 17:09:12.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Timed out
+[16Jul2025 17:09:12.977] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[16Jul2025 17:09:12.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game.
+[16Jul2025 17:09:13.039] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2025 17:10:00.316] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:10:02.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VenaticWinner67[/100.87.58.7:51804] logged in with entity id 19133 at (-2462.4306219818245, 39.0, 4668.443270790323)
+[16Jul2025 17:10:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 joined the game
+[16Jul2025 17:10:02.403] [Server thread/INFO] [voicechat/]: Received secret request of VenaticWinner67 (18)
+[16Jul2025 17:10:02.404] [Server thread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[16Jul2025 17:10:06.792] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[16Jul2025 17:10:08.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:10:09.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[16Jul2025 17:10:09.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[16Jul2025 17:12:10.775] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[16Jul2025 17:12:15.575] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 20.0, *20.0
+[16Jul2025 17:12:15.575] [Server thread/INFO] [Console/]: Current Memory Usage: 1086/2048 mb (Max: 12288 mb)
+[16Jul2025 17:16:50.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[16Jul2025 17:16:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[16Jul2025 17:16:58.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[16Jul2025 17:17:03.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
