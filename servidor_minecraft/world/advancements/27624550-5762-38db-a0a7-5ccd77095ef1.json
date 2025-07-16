@@ -5537,6 +5537,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-07-16 00:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-15 23:54:49 +0000"
@@ -5552,6 +5558,12 @@
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-07-16 00:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-16 00:50:24 +0000"
     },
     "done": true
   },

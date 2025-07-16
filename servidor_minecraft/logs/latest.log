@@ -8,3 +8,4 @@
 [16Jul2025 00:23:16.405] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
 [16Jul2025 00:33:52.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [16Jul2025 00:33:52.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hoka
+[16Jul2025 00:51:08.742] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
