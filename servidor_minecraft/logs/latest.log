@@ -1157,3 +1157,120 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 19:21:46.657] [Server thread/INFO] [voicechat/]: Disconnecting client Linoxito
 [18Jul2025 19:21:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito left the game
 [18Jul2025 19:23:28.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/PortalCreateEvent$CreateReason
+[18Jul2025 19:25:03.009] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:03.011] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:03.011] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [We Need to Go Deeper]
+[18Jul2025 19:25:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Incendium]
+[18Jul2025 19:25:08.529] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 19:25:08.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10786ms or 215 ticks behind
+[18Jul2025 19:25:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Radioactive]
+[18Jul2025 19:25:08.956] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 19:25:12.866] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:12.867] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:12.867] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:25:25.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /msg LastSamurai perra
+[18Jul2025 19:26:02.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[18Jul2025 19:26:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Toxic Personality]
+[18Jul2025 19:26:23.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/51521, l='ServerLevel[world/DIM-1]', x=-300.80, y=119.00, z=612.98] died: Toxic Slime was slain by LastSamurai
+[18Jul2025 19:26:25.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[18Jul2025 19:26:25.947] [Worker-Main-47/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[18Jul2025 19:26:27.555] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 19:26:27.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
+[18Jul2025 19:26:29.540] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 19:27:51.937] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> jajajajaja
+[18Jul2025 19:27:56.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/51611, l='ServerLevel[world/DIM-1]', x=-279.66, y=-20.00, z=663.85] died: Toxic Slime was killed
+[18Jul2025 19:28:21.981] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 19:28:24.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/52598, l='ServerLevel[world/DIM-1]', x=-472.86, y=-20.00, z=542.14] died: Restless Spirit was killed
+[18Jul2025 19:29:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [A Terrible Fortress]
+[18Jul2025 19:29:45.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53955, l='ServerLevel[world/DIM-1]', x=-267.42, y=-20.00, z=618.70] died: Toxic Slime was killed
+[18Jul2025 19:29:45.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53958, l='ServerLevel[world/DIM-1]', x=-280.42, y=-20.00, z=607.82] died: Toxic Slime was killed
+[18Jul2025 19:29:45.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53959, l='ServerLevel[world/DIM-1]', x=-270.20, y=-20.00, z=638.12] died: Toxic Slime was killed
+[18Jul2025 19:29:45.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53964, l='ServerLevel[world/DIM-1]', x=-245.94, y=-20.00, z=571.21] died: Toxic Slime was killed
+[18Jul2025 19:29:46.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 57.5 4664
+[18Jul2025 19:29:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 57.500000, 4664.500000]
+[18Jul2025 19:29:46.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53972, l='ServerLevel[world/DIM-1]', x=-341.74, y=-20.00, z=582.26] died: Toxic Slime was killed
+[18Jul2025 19:29:46.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53976, l='ServerLevel[world/DIM-1]', x=-301.91, y=-20.00, z=613.85] died: Toxic Slime was killed
+[18Jul2025 19:29:46.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53987, l='ServerLevel[world/DIM-1]', x=-263.26, y=-20.00, z=604.84] died: Toxic Slime was killed
+[18Jul2025 19:29:47.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53977, l='ServerLevel[world/DIM-1]', x=-355.93, y=-20.00, z=669.57] died: Toxic Slime was killed
+[18Jul2025 19:29:47.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53984, l='ServerLevel[world/DIM-1]', x=-317.99, y=-20.00, z=524.76] died: Toxic Slime was killed
+[18Jul2025 19:29:47.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53989, l='ServerLevel[world/DIM-1]', x=-277.66, y=-20.00, z=588.26] died: Toxic Slime was killed
+[18Jul2025 19:29:47.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54126, l='ServerLevel[world/DIM-1]', x=-271.85, y=-20.00, z=549.95] died: Toxic Slime was killed
+[18Jul2025 19:29:48.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53946, l='ServerLevel[world/DIM-1]', x=-335.57, y=-20.00, z=590.05] died: Toxic Slime was killed
+[18Jul2025 19:29:48.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53949, l='ServerLevel[world/DIM-1]', x=-295.86, y=-20.00, z=614.60] died: Toxic Slime was killed
+[18Jul2025 19:29:48.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53956, l='ServerLevel[world/DIM-1]', x=-232.71, y=-20.00, z=626.82] died: Toxic Slime was killed
+[18Jul2025 19:29:48.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53968, l='ServerLevel[world/DIM-1]', x=-327.72, y=-20.00, z=603.78] died: Toxic Slime was killed
+[18Jul2025 19:29:48.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54004, l='ServerLevel[world/DIM-1]', x=-258.50, y=-20.00, z=582.50] died: Toxic Slime was killed
+[18Jul2025 19:29:48.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54005, l='ServerLevel[world/DIM-1]', x=-256.50, y=-20.00, z=581.50] died: Toxic Slime was killed
+[18Jul2025 19:29:48.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54006, l='ServerLevel[world/DIM-1]', x=-282.26, y=-20.00, z=570.26] died: Toxic Slime was killed
+[18Jul2025 19:29:48.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54007, l='ServerLevel[world/DIM-1]', x=-260.94, y=-20.00, z=590.80] died: Toxic Slime was killed
+[18Jul2025 19:29:49.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53945, l='ServerLevel[world/DIM-1]', x=-294.94, y=-20.00, z=606.04] died: Toxic Slime was killed
+[18Jul2025 19:29:49.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53962, l='ServerLevel[world/DIM-1]', x=-360.54, y=-20.00, z=669.43] died: Toxic Slime was killed
+[18Jul2025 19:29:50.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54124, l='ServerLevel[world/DIM-1]', x=-308.74, y=-20.00, z=679.25] died: Toxic Slime was killed
+[18Jul2025 19:29:51.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53953, l='ServerLevel[world/DIM-1]', x=-274.15, y=-20.00, z=582.16] died: Toxic Slime was killed
+[18Jul2025 19:29:51.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53963, l='ServerLevel[world/DIM-1]', x=-247.68, y=-20.00, z=570.37] died: Toxic Slime was killed
+[18Jul2025 19:29:51.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53986, l='ServerLevel[world/DIM-1]', x=-276.89, y=-20.00, z=611.32] died: Toxic Slime was killed
+[18Jul2025 19:29:51.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53992, l='ServerLevel[world/DIM-1]', x=-264.97, y=-20.00, z=610.35] died: Toxic Slime was killed
+[18Jul2025 19:29:51.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54008, l='ServerLevel[world/DIM-1]', x=-338.26, y=-20.00, z=533.26] died: Toxic Slime was killed
+[18Jul2025 19:29:52.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53952, l='ServerLevel[world/DIM-1]', x=-392.70, y=-20.00, z=589.74] died: Toxic Slime was killed
+[18Jul2025 19:29:52.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53973, l='ServerLevel[world/DIM-1]', x=-289.50, y=-20.00, z=610.50] died: Toxic Slime was killed
+[18Jul2025 19:29:52.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54123, l='ServerLevel[world/DIM-1]', x=-235.33, y=-20.00, z=596.35] died: Toxic Slime was killed
+[18Jul2025 19:29:52.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54127, l='ServerLevel[world/DIM-1]', x=-258.71, y=-20.00, z=558.54] died: Toxic Slime was killed
+[18Jul2025 19:29:52.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54134, l='ServerLevel[world/DIM-1]', x=-315.56, y=-20.00, z=522.59] died: Toxic Slime was killed
+[18Jul2025 19:29:53.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54131, l='ServerLevel[world/DIM-1]', x=-351.31, y=-20.00, z=649.34] died: Toxic Slime was killed
+[18Jul2025 19:29:53.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54133, l='ServerLevel[world/DIM-1]', x=-300.26, y=-20.00, z=583.74] died: Toxic Slime was killed
+[18Jul2025 19:30:35.322] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:30:37.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:50210] logged in with entity id 55185 at (-2100.8581645843665, 123.0, 5000.899382313005)
+[18Jul2025 19:30:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 19:30:37.388] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 19:30:37.388] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 19:30:38.386] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 19:30:38.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:30:39.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:30:39.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 19:30:43.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[18Jul2025 19:30:43.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[18Jul2025 19:30:44.168] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:30:51.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54152, l='ServerLevel[world/DIM-1]', x=-259.74, y=-20.00, z=608.61] died: Toxic Slime was killed
+[18Jul2025 19:31:10.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54623, l='ServerLevel[world/DIM-1]', x=-508.86, y=-20.00, z=515.86] died: Toxic Slime was killed
+[18Jul2025 19:31:26.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[18Jul2025 19:31:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[18Jul2025 19:31:26.781] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:31:27.472] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:31:27.480] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:31:27.481] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:31:27.482] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:31:27.483] [Worker-Main-48/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 19:31:53.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[18Jul2025 19:31:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[18Jul2025 19:31:54.037] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:32:00.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[18Jul2025 19:32:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[18Jul2025 19:32:01.467] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:32:22.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54908, l='ServerLevel[world/DIM-1]', x=-424.34, y=-20.00, z=503.99] died: Toxic Slime was killed
+[18Jul2025 19:32:22.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54911, l='ServerLevel[world/DIM-1]', x=-375.50, y=-20.00, z=534.50] died: Toxic Slime was killed
+[18Jul2025 19:32:24.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54946, l='ServerLevel[world/DIM-1]', x=-369.26, y=-20.00, z=579.67] died: Toxic Slime was killed
+[18Jul2025 19:32:24.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54947, l='ServerLevel[world/DIM-1]', x=-394.72, y=-20.00, z=589.03] died: Toxic Slime was killed
+[18Jul2025 19:32:29.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Into Fire]
+[18Jul2025 19:32:35.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54966, l='ServerLevel[world/DIM-1]', x=-380.20, y=-20.00, z=550.09] died: Toxic Slime was killed
+[18Jul2025 19:32:35.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54968, l='ServerLevel[world/DIM-1]', x=-333.74, y=-20.00, z=541.74] died: Toxic Slime was killed
+[18Jul2025 19:32:36.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54970, l='ServerLevel[world/DIM-1]', x=-341.74, y=-20.00, z=479.38] died: Toxic Slime was killed
+[18Jul2025 19:32:52.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55176, l='ServerLevel[world/DIM-1]', x=-335.33, y=-20.00, z=514.04] died: Toxic Slime was killed
+[18Jul2025 19:32:53.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Bison
+[18Jul2025 19:32:53.806] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 19:32:53.817] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 19:33:15.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[18Jul2025 19:33:15.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[18Jul2025 19:33:16.714] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:33:23.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[18Jul2025 19:33:23.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[18Jul2025 19:33:23.764] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:33:26.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito was slain by Bison
+[18Jul2025 19:33:28.708] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 19:33:38.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55837, l='ServerLevel[world/DIM-1]', x=-284.61, y=-20.00, z=507.70] died: Toxic Slime was killed
+[18Jul2025 19:33:52.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 19:33:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 19:33:54.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55904, l='ServerLevel[world/DIM-1]', x=-363.50, y=-20.00, z=525.50] died: Toxic Slime was killed
+[18Jul2025 19:34:07.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56402, l='ServerLevel[world/DIM-1]', x=-293.80, y=-20.00, z=499.77] died: Toxic Slime was killed
+[18Jul2025 19:34:22.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56812, l='ServerLevel[world/DIM-1]', x=-374.50, y=-20.00, z=532.50] died: Toxic Slime was killed
+[18Jul2025 19:34:34.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57133, l='ServerLevel[world/DIM-1]', x=-353.13, y=-20.00, z=488.44] died: Toxic Slime was killed

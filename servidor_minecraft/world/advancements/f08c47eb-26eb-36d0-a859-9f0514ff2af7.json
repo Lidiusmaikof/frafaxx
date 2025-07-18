@@ -1561,6 +1561,7 @@
       "golden_apple": "2025-07-10 16:29:19 +0000",
       "glow_berries": "2025-07-09 18:13:05 +0000",
       "melon_slice": "2025-07-15 23:23:22 +0000",
+      "golden_carrot": "2025-07-18 19:28:12 +0000",
       "cooked_rabbit": "2025-07-10 03:37:28 +0000",
       "cooked_chicken": "2025-07-10 03:36:10 +0000",
       "carrot": "2025-07-18 03:33:16 +0000"
@@ -3658,6 +3659,7 @@
       "minecraft:spider": "2025-07-09 19:24:06 +0000",
       "minecraft:piglin_brute": "2025-07-10 03:42:55 +0000",
       "minecraft:creeper": "2025-07-10 03:17:31 +0000",
+      "minecraft:slime": "2025-07-18 19:26:23 +0000",
       "minecraft:wither_skeleton": "2025-07-10 02:11:13 +0000",
       "minecraft:husk": "2025-07-10 17:02:25 +0000",
       "minecraft:cave_spider": "2025-07-10 02:10:14 +0000",
@@ -6879,6 +6881,18 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-18 19:25:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-07-18 19:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-18 19:17:57 +0000"
@@ -6888,6 +6902,48 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-07-18 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-07-18 19:25:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-18 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-18 19:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-18 19:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-07-18 19:25:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-07-18 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-18 19:25:05 +0000"
     },
     "done": true
   },
