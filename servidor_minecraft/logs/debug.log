@@ -11198,3 +11198,20 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [18Jul2025 21:13:13.160] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
 [18Jul2025 21:16:41.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 21:16:41.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 21:21:41.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 21:21:41.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 21:23:31.563] [Server thread/CONFIG] [voicechat/]: Got state of LastSamurai: {disabled=true, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[18Jul2025 21:23:41.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[18Jul2025 21:23:41.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[18Jul2025 21:23:41.750] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Sending initial states to LastSamurai
+[18Jul2025 21:23:41.750] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Synchronizing 0 volume categories with LastSamurai
+[18Jul2025 21:23:41.750] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Synchronizing 0 groups with LastSamurai
+[18Jul2025 21:23:41.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 21:23:41.751] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Set state of f08c47eb-26eb-36d0-a859-9f0514ff2af7 to disconnected: {disabled=true, disconnected=true, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[18Jul2025 21:23:43.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 21:23:44.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 21:23:44.022] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Set state of LastSamurai to connected: {disabled=true, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[18Jul2025 21:23:44.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 21:23:44.188] [Server thread/CONFIG] [voicechat/]: Got state of LastSamurai: {disabled=true, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[18Jul2025 21:26:41.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 21:26:41.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
