@@ -14015,3 +14015,72 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [18Jul2025 03:40:15.181] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> chau pis
 [18Jul2025 03:40:23.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 03:40:23.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:44:53.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 03:44:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 03:45:23.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:45:23.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1820 | 86 | 4132).
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(8) Nodes and 4(0) Rooms
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(3) Nodes and 4(0) Rooms
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[18Jul2025 03:48:10.712] [Worker-Main-104/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 5(0) Rooms
+[18Jul2025 03:48:45.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[18Jul2025 03:48:45.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[18Jul2025 03:48:45.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[18Jul2025 03:48:45.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[18Jul2025 03:48:45.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[18Jul2025 03:48:45.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/villager_normal_0
+[18Jul2025 03:49:06.052] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:06.052] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:06.078] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:06.079] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1802 | 86 | 4205)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1802 | 86 | 4205)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1793 | 86 | 4206)
+[18Jul2025 03:49:10.864] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1793 | 86 | 4206)
+[18Jul2025 03:49:10.921] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1796 | 50 | 4156)
+[18Jul2025 03:49:10.921] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1796 | 50 | 4156)
+[18Jul2025 03:49:11.018] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1796 | 50 | 4156)
+[18Jul2025 03:49:11.018] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1796 | 50 | 4156)
+[18Jul2025 03:49:11.297] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:11.297] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1811 | 86 | 4204)
+[18Jul2025 03:49:11.297] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1802 | 86 | 4205)
+[18Jul2025 03:49:11.298] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1802 | 86 | 4205)
+[18Jul2025 03:49:11.298] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1793 | 86 | 4206)
+[18Jul2025 03:49:11.298] [Worker-Main-107/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1793 | 86 | 4206)
+[18Jul2025 03:49:59.674] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> estas bien hija? te tepeo?
+[18Jul2025 03:50:11.709] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> NONO
+[18Jul2025 03:50:16.214] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> ah ya
+[18Jul2025 03:50:23.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:50:23.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:51:00.388] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[18Jul2025 03:51:00.388] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[18Jul2025 03:51:00.388] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[18Jul2025 03:51:00.424] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[18Jul2025 03:51:00.464] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[18Jul2025 03:51:00.464] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[18Jul2025 03:51:00.464] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[18Jul2025 03:51:00.505] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[18Jul2025 03:51:08.280] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[18Jul2025 03:51:08.280] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[18Jul2025 03:51:08.280] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[18Jul2025 03:51:08.364] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[18Jul2025 03:51:08.364] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[18Jul2025 03:51:08.364] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[18Jul2025 03:51:42.345] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[18Jul2025 03:51:42.345] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[18Jul2025 03:51:44.593] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[18Jul2025 03:52:04.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason

@@ -6860,5 +6860,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-07-18 03:41:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
