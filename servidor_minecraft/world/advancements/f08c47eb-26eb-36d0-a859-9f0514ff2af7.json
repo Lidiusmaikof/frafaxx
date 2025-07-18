@@ -6894,6 +6894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 20:06:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 19:57:55 +0000"
@@ -7147,6 +7153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 20:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-18 19:56:06 +0000"
@@ -7162,6 +7174,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-18 19:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 20:06:13 +0000"
     },
     "done": true
   },
@@ -7199,6 +7217,7 @@
     "criteria": {
       "waste": "2025-07-18 19:59:20 +0000",
       "junk": "2025-07-18 19:57:54 +0000",
+      "treasure": "2025-07-18 20:05:45 +0000",
       "office": "2025-07-18 19:55:38 +0000"
     },
     "done": false
@@ -7272,6 +7291,12 @@
   "connectedglass:recipes/misc/borderless_glass_green1": {
     "criteria": {
       "recipe_condition": "2025-07-18 19:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 20:06:13 +0000"
     },
     "done": true
   },
