@@ -1121,3 +1121,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 18:10:35.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
 [18Jul2025 18:10:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
 [18Jul2025 18:10:36.473] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 18:25:39.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerSignOpenEvent$Cause
+[18Jul2025 18:25:40.610] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Jul2025 18:40:48.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityUnleashEvent$UnleashReason
+[18Jul2025 18:43:49.782] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> zzzzzzzzzzzzz
+[18Jul2025 18:43:56.498] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> aj
