@@ -1826,3 +1826,23 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 22:35:39.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147976, l='ServerLevel[world/DIM-1]', x=-584.50, y=-20.00, z=1727.50] died: Restless Spirit was killed
 [18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148017, l='ServerLevel[world/DIM-1]', x=-542.50, y=-20.00, z=1784.50] died: Restless Spirit was killed
 [18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148019, l='ServerLevel[world/DIM-1]', x=-496.50, y=-20.00, z=1809.50] died: Restless Spirit was killed
+[18Jul2025 22:39:21.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/150985, l='ServerLevel[world/DIM-1]', x=-140.50, y=-20.00, z=1678.50] died: Toxic Slime was killed
+[18Jul2025 22:41:04.021] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:41:04.021] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:41:04.021] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:41:38.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 47c543d0-9f37-3114-a38a-09cb168e4a96 timed out
+[18Jul2025 22:41:38.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player Linoxito
+[18Jul2025 22:41:38.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 22:41:50.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Linoxito lost connection: Timed out
+[18Jul2025 22:41:50.351] [Server thread/INFO] [voicechat/]: Disconnecting client Linoxito
+[18Jul2025 22:41:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito left the game.
+[18Jul2025 22:41:50.400] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 22:43:02.595] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:43:04.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:50757] logged in with entity id 156434 at (131.15423680356096, 15.0, 1744.699999988079)
+[18Jul2025 22:43:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 22:43:04.803] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 22:43:04.804] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 22:43:05.922] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 22:43:06.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:43:07.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:43:07.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
