@@ -1895,3 +1895,33 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 22:58:14.200] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
 [18Jul2025 22:58:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
 [18Jul2025 22:58:14.300] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 22:59:32.341] [Worker-Main-366/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:59:32.342] [Worker-Main-366/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:59:32.351] [Worker-Main-366/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:59:32.352] [Worker-Main-366/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:59:32.352] [Worker-Main-366/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:00:44.055] [Worker-Main-340/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:00:44.056] [Worker-Main-340/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:00:44.056] [Worker-Main-340/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:01:43.384] [Worker-Main-392/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:01:43.385] [Worker-Main-392/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:01:43.385] [Worker-Main-392/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:01:43.385] [Worker-Main-392/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:01:55.502] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 23:01:57.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:53163] logged in with entity id 165475 at (-2471.4910873195895, 126.0, 4889.4887880300075)
+[18Jul2025 23:01:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[18Jul2025 23:01:58.029] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[18Jul2025 23:01:58.029] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 23:02:00.955] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 23:02:03.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 23:02:04.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Nightmare Fuel]
+[18Jul2025 23:02:04.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 23:02:04.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 23:02:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Nightmare Fuel]
+[18Jul2025 23:04:08.512] [Worker-Main-331/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:04:08.512] [Worker-Main-331/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 23:07:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Piglin Brute
+[18Jul2025 23:07:07.799] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 23:07:07.805] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 23:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Not even afraid of death]
+[18Jul2025 23:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Back to childhood]
