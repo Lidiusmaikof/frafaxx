@@ -9490,3 +9490,38 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 17:36:28.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 17:41:28.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 17:41:28.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:46:28.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:46:28.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:48:39.261] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2276, y=122, z=4821} BlockPos{x=-2276, y=120, z=4821}
+[18Jul2025 17:48:43.736] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2307, y=120, z=4815} BlockPos{x=-2304, y=119, z=4818}
+[18Jul2025 17:48:44.133] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=121, z=4817} BlockPos{x=-2308, y=119, z=4817}
+[18Jul2025 17:48:44.184] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=121, z=4817} BlockPos{x=-2308, y=119, z=4817}
+[18Jul2025 17:48:44.207] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=121, z=4817} BlockPos{x=-2308, y=119, z=4817}
+[18Jul2025 17:48:44.636] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2311, y=120, z=4817} BlockPos{x=-2312, y=119, z=4819}
+[18Jul2025 17:48:45.124] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2313, y=120, z=4820} BlockPos{x=-2315, y=120, z=4819}
+[18Jul2025 17:48:45.840] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2318, y=122, z=4819} BlockPos{x=-2319, y=121, z=4819}
+[18Jul2025 17:48:48.028] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=124, z=4822} BlockPos{x=-2327, y=122, z=4822}
+[18Jul2025 17:48:51.806] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2349, y=123, z=4827} BlockPos{x=-2347, y=122, z=4828}
+[18Jul2025 17:48:51.857] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2349, y=123, z=4827} BlockPos{x=-2347, y=122, z=4828}
+[18Jul2025 17:48:51.858] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=123, z=4827} BlockPos{x=-2347, y=122, z=4828}
+[18Jul2025 17:48:53.429] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2359, y=124, z=4832} BlockPos{x=-2360, y=122, z=4833}
+[18Jul2025 17:48:53.464] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2359, y=124, z=4832} BlockPos{x=-2360, y=122, z=4833}
+[18Jul2025 17:48:54.008] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=124, z=4833} BlockPos{x=-2363, y=122, z=4832}
+[18Jul2025 17:48:56.008] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=123, z=4839} BlockPos{x=-2375, y=121, z=4839}
+[18Jul2025 17:48:56.056] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=123, z=4839} BlockPos{x=-2375, y=121, z=4839}
+[18Jul2025 17:48:58.661] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=124, z=4847} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:48:58.803] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=124, z=4847} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:48:58.803] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=124, z=4847} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:48:58.861] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=124, z=4847} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:48:58.913] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2391, y=124, z=4847} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:48:58.913] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2394, y=124, z=4848} BlockPos{x=-2391, y=122, z=4849}
+[18Jul2025 17:49:04.626] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2422, y=128, z=4866} BlockPos{x=-2421, y=126, z=4865}
+[18Jul2025 17:49:04.777] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2422, y=128, z=4866} BlockPos{x=-2421, y=126, z=4865}
+[18Jul2025 17:49:05.129] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2426, y=128, z=4867} BlockPos{x=-2425, y=126, z=4867}
+[18Jul2025 17:49:08.734] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2438, y=129, z=4866} BlockPos{x=-2439, y=128, z=4866}
+[18Jul2025 17:49:08.814] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2438, y=129, z=4866} BlockPos{x=-2439, y=128, z=4866}
+[18Jul2025 17:49:11.755] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2454, y=130, z=4868} BlockPos{x=-2453, y=128, z=4867}
+[18Jul2025 17:49:11.856] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2454, y=130, z=4868} BlockPos{x=-2453, y=128, z=4867}
+[18Jul2025 17:49:13.414] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2463, y=130, z=4875} BlockPos{x=-2462, y=128, z=4874}
+[18Jul2025 17:51:28.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:51:28.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
