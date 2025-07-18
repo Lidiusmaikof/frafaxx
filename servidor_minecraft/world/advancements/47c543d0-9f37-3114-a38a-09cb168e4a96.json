@@ -19,9 +19,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-18 05:30:22 +0000",
       "log_spam_fixer": "2025-07-10 00:13:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -5575,6 +5576,12 @@
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-07-18 04:27:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-18 05:23:59 +0000"
     },
     "done": true
   },

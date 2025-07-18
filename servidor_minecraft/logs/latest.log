@@ -1723,3 +1723,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 05:23:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [Chain Death]
 [18Jul2025 05:23:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito was slain by Iron Golem
 [18Jul2025 05:24:00.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 05:30:22.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 05:30:22.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 05:33:39.256] [Async Chat Thread - #46/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> y el otro negri?
+[18Jul2025 05:34:04.989] [Async Chat Thread - #46/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> atrevido
