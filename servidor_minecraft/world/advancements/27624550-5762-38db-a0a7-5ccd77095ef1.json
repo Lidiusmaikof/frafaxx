@@ -1703,6 +1703,7 @@
       "minecraft:skeleton": "2025-07-09 18:21:33 +0000",
       "minecraft:ravager": "2025-07-16 00:01:20 +0000",
       "minecraft:vindicator": "2025-07-10 16:05:17 +0000",
+      "minecraft:magma_cube": "2025-07-18 21:43:15 +0000",
       "minecraft:spider": "2025-07-09 17:53:26 +0000",
       "minecraft:creeper": "2025-07-10 02:26:46 +0000",
       "minecraft:phantom": "2025-07-09 17:54:44 +0000",
@@ -6835,30 +6836,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-07-18 18:42:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-07-18 18:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-07-18 18:42:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-07-18 18:42:53 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-07-18 17:08:45 +0000"
@@ -6868,6 +6845,48 @@
   "tombstone:adventure/use_reach": {
     "criteria": {
       "has_magic_scroll": "2025-07-18 17:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-18 18:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-18 18:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-18 18:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-18 18:42:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-07-18 21:40:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-07-18 21:40:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-07-18 21:45:03 +0000"
     },
     "done": true
   },
