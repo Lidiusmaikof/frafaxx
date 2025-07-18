@@ -1078,3 +1078,24 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 01:51:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: VenaticWinner67
 [18Jul2025 01:59:38.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
 [18Jul2025 01:59:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 02:03:04.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[18Jul2025 02:09:49.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[18Jul2025 02:09:54.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
+[18Jul2025 02:10:09.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 02:10:09.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 02:13:17.581] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 02:13:20.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:55343] logged in with entity id 4432 at (-538.6303498019125, 134.17675927506423, 4193.263169145695)
+[18Jul2025 02:13:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[18Jul2025 02:13:22.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[18Jul2025 02:13:27.865] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[18Jul2025 02:13:27.865] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 02:13:38.768] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 02:13:45.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 02:13:50.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 02:13:50.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 02:16:55.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[18Jul2025 02:18:21.271] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Jul2025 02:18:21.277] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> manda cords de la aldea heja
+[18Jul2025 02:19:43.238] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> ya ispirame oi
+[18Jul2025 02:19:49.419] [Worker-Main-103/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[18Jul2025 02:19:55.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
