@@ -1139,3 +1139,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 19:12:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
 [18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 57.5 4664
 [18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 57.500000, 4664.500000]
+[18Jul2025 19:16:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Stay dead]
+[18Jul2025 19:17:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [Ice Bucket Challenge]
+[18Jul2025 19:18:45.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[18Jul2025 19:18:47.420] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> go nether??
+[18Jul2025 19:19:28.726] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:19:30.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:50164] logged in with entity id 48233 at (-2106.558338367863, 126.0, 4999.129467150997)
+[18Jul2025 19:19:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 19:19:33.209] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 19:19:33.210] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 19:19:36.408] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 19:19:37.980] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> no pingo
+[18Jul2025 19:19:40.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:19:41.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 19:19:41.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 19:21:46.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Linoxito lost connection: Disconnected
+[18Jul2025 19:21:46.657] [Server thread/INFO] [voicechat/]: Disconnecting client Linoxito
+[18Jul2025 19:21:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito left the game
+[18Jul2025 19:23:28.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/PortalCreateEvent$CreateReason
