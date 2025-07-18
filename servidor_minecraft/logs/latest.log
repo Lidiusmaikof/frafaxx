@@ -1099,3 +1099,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 02:19:43.238] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> ya ispirame oi
 [18Jul2025 02:19:49.419] [Worker-Main-103/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [18Jul2025 02:19:55.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[18Jul2025 02:20:25.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[18Jul2025 02:21:28.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 02:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 02:22:59.740] [Worker-Main-104/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[18Jul2025 02:22:59.741] [Worker-Main-104/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[18Jul2025 02:23:01.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[18Jul2025 02:23:56.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp LastSamurai VenaticWinner67
+[18Jul2025 02:23:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported LastSamurai to VenaticWinner67]
+[18Jul2025 02:24:38.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai issued server command: /tp @s 350 76.5 2621
+[18Jul2025 02:28:46.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 02:28:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 02:30:11.971] [Worker-Main-105/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Jul2025 02:30:35.301] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[18Jul2025 02:30:37.954] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[18Jul2025 02:30:37.954] [Server thread/INFO] [Console/]: Current Memory Usage: 2089/6720 mb (Max: 12288 mb)

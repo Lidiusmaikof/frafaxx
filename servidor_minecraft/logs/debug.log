@@ -9415,3 +9415,119 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 02:20:05.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
 [18Jul2025 02:20:05.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
 [18Jul2025 02:20:05.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[18Jul2025 02:20:23.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:20:23.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 02:20:25.450] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
+[18Jul2025 02:20:25.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[18Jul2025 02:21:28.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 02:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 02:22:17.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_01
+[18Jul2025 02:22:21.179] [Worker-Main-102/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RotatedPillarBlock$1
+[18Jul2025 02:22:30.869] [Worker-Main-63/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/CrossCollisionBlock$1
+[18Jul2025 02:22:31.212] [Worker-Main-105/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Mirror$1
+[18Jul2025 02:22:51.074] [Worker-Main-63/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[18Jul2025 02:22:51.321] [Worker-Main-107/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
+[18Jul2025 02:22:52.177] [Worker-Main-102/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RedStoneWireBlock$1
+[18Jul2025 02:22:57.636] [Worker-Main-76/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/TripWireBlock$1
+[18Jul2025 02:22:59.738] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/VerticalEntrance$1
+[18Jul2025 02:22:59.739] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/yungsapi/world/util/BoundingBoxHelper$1
+[18Jul2025 02:22:59.740] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/BigTunnel$1
+[18Jul2025 02:22:59.740] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnel$1
+[18Jul2025 02:22:59.740] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/LayeredIntersection5$1
+[18Jul2025 02:22:59.740] [Worker-Main-104/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[18Jul2025 02:22:59.741] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/LayeredIntersection4$1
+[18Jul2025 02:22:59.741] [Worker-Main-104/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[18Jul2025 02:22:59.742] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$1
+[18Jul2025 02:22:59.742] [Worker-Main-104/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelStairs$1
+[18Jul2025 02:23:01.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[18Jul2025 02:23:03.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[18Jul2025 02:23:08.396] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[18Jul2025 02:23:29.896] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[18Jul2025 02:23:32.003] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FenceGateBlock$1
+[18Jul2025 02:23:42.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[18Jul2025 02:23:42.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[18Jul2025 02:23:42.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[18Jul2025 02:23:42.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[18Jul2025 02:23:42.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[18Jul2025 02:23:42.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[18Jul2025 02:23:42.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[18Jul2025 02:23:42.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[18Jul2025 02:23:42.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[18Jul2025 02:23:42.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[18Jul2025 02:23:42.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[18Jul2025 02:23:42.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[18Jul2025 02:23:42.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[18Jul2025 02:23:42.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[18Jul2025 02:23:42.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[18Jul2025 02:23:42.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[18Jul2025 02:23:42.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[18Jul2025 02:23:42.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[18Jul2025 02:23:42.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[18Jul2025 02:23:42.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[18Jul2025 02:23:42.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[18Jul2025 02:23:42.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[18Jul2025 02:23:42.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[18Jul2025 02:23:42.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[18Jul2025 02:23:42.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[18Jul2025 02:23:42.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[18Jul2025 02:23:42.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[18Jul2025 02:23:42.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[18Jul2025 02:23:42.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[18Jul2025 02:23:42.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[18Jul2025 02:23:48.877] [Worker-Main-102/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[18Jul2025 02:23:56.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp LastSamurai VenaticWinner67
+[18Jul2025 02:23:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported LastSamurai to VenaticWinner67]
+[18Jul2025 02:24:38.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai issued server command: /tp @s 350 76.5 2621
+[18Jul2025 02:25:23.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:25:23.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 02:26:17.851] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Jul2025 02:26:56.069] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[18Jul2025 02:27:19.209] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/inventory/RepairContainerMixin$1
+[18Jul2025 02:27:19.209] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/VanillaAnvilMenu$1
+[18Jul2025 02:27:19.211] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/ModAnvilMenu$1
+[18Jul2025 02:27:24.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[18Jul2025 02:27:24.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[18Jul2025 02:27:24.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[18Jul2025 02:27:24.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[18Jul2025 02:27:26.693] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[18Jul2025 02:27:41.345] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/Boat$1
+[18Jul2025 02:27:41.572] [Worker-Main-76/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$1
+[18Jul2025 02:27:54.924] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[18Jul2025 02:28:11.226] [Worker-Main-106/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[18Jul2025 02:28:21.846] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18Jul2025 02:28:21.858] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18Jul2025 02:28:21.882] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18Jul2025 02:28:21.900] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18Jul2025 02:28:21.915] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18Jul2025 02:28:33.993] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[18Jul2025 02:28:33.999] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[18Jul2025 02:28:35.443] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[18Jul2025 02:28:35.778] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[18Jul2025 02:28:35.794] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18Jul2025 02:28:41.301] [Worker-Main-105/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SideRoom$1
+[18Jul2025 02:28:41.302] [Worker-Main-105/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SideRoomDungeon$1
+[18Jul2025 02:28:46.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 02:28:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 02:28:50.576] [Worker-Main-106/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RailBlock$1
+[18Jul2025 02:29:02.607] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BaseRailBlock$1
+[18Jul2025 02:29:04.846] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18Jul2025 02:29:16.002] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[18Jul2025 02:29:20.479] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$1
+[18Jul2025 02:30:11.971] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[18Jul2025 02:30:11.971] [Worker-Main-105/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Jul2025 02:30:12.654] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[18Jul2025 02:30:12.677] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[18Jul2025 02:30:12.684] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[18Jul2025 02:30:12.710] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[18Jul2025 02:30:12.885] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[18Jul2025 02:30:12.893] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[18Jul2025 02:30:12.895] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[18Jul2025 02:30:17.490] [Worker-Main-102/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Jul2025 02:30:20.016] [Worker-Main-104/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[18Jul2025 02:30:23.002] [Worker-Main-106/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[18Jul2025 02:30:23.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:30:23.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 02:30:35.301] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[18Jul2025 02:30:36.653] [Worker-Main-102/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[18Jul2025 02:30:37.954] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[18Jul2025 02:30:37.954] [Server thread/INFO] [Console/]: Current Memory Usage: 2089/6720 mb (Max: 12288 mb)
