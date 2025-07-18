@@ -9578,3 +9578,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 18:46:28.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 18:51:28.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 18:51:28.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 18:56:28.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 18:56:28.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 19:01:28.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 19:01:28.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 19:01:56.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[18Jul2025 19:03:24.577] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/properties/ChestType$1
+[18Jul2025 19:04:05.351] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
+[18Jul2025 19:04:05.381] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
+[18Jul2025 19:04:05.428] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
+[18Jul2025 19:04:05.456] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}

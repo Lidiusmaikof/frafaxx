@@ -1132,3 +1132,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 18:44:11.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
 [18Jul2025 18:44:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
 [18Jul2025 18:44:12.605] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 19:01:56.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
