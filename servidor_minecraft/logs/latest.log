@@ -1846,3 +1846,52 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 22:43:06.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [18Jul2025 22:43:07.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
 [18Jul2025 22:43:07.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 22:50:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Those Were the Days]
+[18Jul2025 22:50:41.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Those Were the Days]
+[18Jul2025 22:51:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [War Pigs]
+[18Jul2025 22:51:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [War Pigs]
+[18Jul2025 22:56:07.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
+[18Jul2025 22:56:07.802] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 22:56:07.806] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 22:56:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito burned to death
+[18Jul2025 22:56:17.806] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 22:56:20.504] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 22:56:21.162] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 22:56:24.215] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> que wey
+[18Jul2025 22:56:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [The Most Useful Key]
+[18Jul2025 22:56:53.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [A Fast Comeback]
+[18Jul2025 22:56:53.830] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 22:57:09.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Disconnected
+[18Jul2025 22:57:09.550] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[18Jul2025 22:57:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game
+[18Jul2025 22:57:11.372] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 22:57:13.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VenaticWinner67[/100.87.58.7:52437] logged in with entity id 163175 at (629.2085121469861, 33.0, 1935.699999988079)
+[18Jul2025 22:57:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 joined the game
+[18Jul2025 22:57:13.564] [Server thread/INFO] [voicechat/]: Received secret request of VenaticWinner67 (18)
+[18Jul2025 22:57:13.564] [Server thread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[18Jul2025 22:57:16.203] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 22:57:16.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 22:57:17.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 22:57:17.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[18Jul2025 22:57:53.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Linoxito lost connection: Disconnected
+[18Jul2025 22:57:53.949] [Server thread/INFO] [voicechat/]: Disconnecting client Linoxito
+[18Jul2025 22:57:53.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito left the game
+[18Jul2025 22:57:56.537] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:57:58.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:50808] logged in with entity id 163286 at (625.8766154176324, 34.0, 1954.5552516427185)
+[18Jul2025 22:57:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 22:57:58.556] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 22:57:58.556] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 22:57:59.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[18Jul2025 22:57:59.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[18Jul2025 22:57:59.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 22:57:59.352] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 22:57:59.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:58:00.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 22:58:00.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 22:58:11.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by VenaticWinner67 using [| Sword Black |]
+[18Jul2025 22:58:11.710] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 22:58:11.713] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 22:58:14.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Timed out
+[18Jul2025 22:58:14.200] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[18Jul2025 22:58:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[18Jul2025 22:58:14.300] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
