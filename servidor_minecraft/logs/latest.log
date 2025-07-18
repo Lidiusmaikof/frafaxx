@@ -1071,3 +1071,27 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 16:37:48.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [18Jul2025 16:37:50.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryType$SlotType
 [18Jul2025 16:37:50.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/ClickType
+[18Jul2025 16:55:15.123] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 16:55:18.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:58502] logged in with entity id 1769 at (-2476.9394879006313, 130.0, 4820.724708790734)
+[18Jul2025 16:55:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[18Jul2025 16:55:19.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[18Jul2025 16:55:26.380] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[18Jul2025 16:55:26.381] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 16:55:31.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
+[18Jul2025 16:55:34.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[18Jul2025 16:55:38.184] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 16:55:40.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 16:55:47.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 16:55:47.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 16:56:10.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai was slain by Zombie
+[18Jul2025 16:56:10.505] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[18Jul2025 16:56:10.515] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[18Jul2025 16:56:48.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[18Jul2025 16:56:48.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[18Jul2025 16:56:48.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[18Jul2025 16:56:48.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai was slain by Zombie
+[18Jul2025 16:56:50.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerRespawnEvent$RespawnReason
+[18Jul2025 16:56:50.932] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 16:57:51.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[18Jul2025 17:01:07.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[18Jul2025 17:01:19.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
