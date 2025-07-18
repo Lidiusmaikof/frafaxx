@@ -13949,3 +13949,38 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [18Jul2025 02:58:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
 [18Jul2025 03:00:23.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 03:00:23.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:02:38.763] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> TEPEAME DONDE ESTAS HEJA
+[18Jul2025 03:05:23.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:05:23.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:06:12.810] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> uthaaaa
+[18Jul2025 03:06:17.766] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> no por que ps
+[18Jul2025 03:07:56.171] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> utaaaaaaaaaaaaaaaaaaaaaa
+[18Jul2025 03:08:15.089] [Server thread/CONFIG] [voicechat/]: Got state of LastSamurai: {disabled=false, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[18Jul2025 03:09:30.034] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> esperame pus
+[18Jul2025 03:09:39.403] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> estoy farmeando
+[18Jul2025 03:10:23.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:10:23.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:14:01.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 03:14:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 03:14:16.868] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> ontas??
+[18Jul2025 03:14:24.268] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzzzzz
+[18Jul2025 03:15:23.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:15:23.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 03:15:27.028] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> tpppppppppp
+[18Jul2025 03:16:06.827] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> yayay
+[18Jul2025 03:16:37.749] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/Level$2
+[18Jul2025 03:16:37.782] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[18Jul2025 03:16:37.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp LastSamurai VenaticWinner67
+[18Jul2025 03:16:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported LastSamurai to VenaticWinner67]
+[18Jul2025 03:17:06.805] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=true, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:08.388] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:11.000] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=true, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:13.151] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:20.713] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=true, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:21.518] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
+[18Jul2025 03:17:32.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[18Jul2025 03:18:44.191] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> zzzzzzzzz
+[18Jul2025 03:18:54.113] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> aguante
+[18Jul2025 03:19:36.593] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> zzzzzzzzz
+[18Jul2025 03:20:23.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:20:23.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
