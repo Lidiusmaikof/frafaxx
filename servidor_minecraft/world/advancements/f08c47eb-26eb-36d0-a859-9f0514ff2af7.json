@@ -6837,5 +6837,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-07-18 02:37:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
