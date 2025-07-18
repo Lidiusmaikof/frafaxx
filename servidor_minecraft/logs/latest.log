@@ -1790,3 +1790,24 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 22:17:01.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
 [18Jul2025 22:17:01.602] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
 [18Jul2025 22:17:01.609] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 22:21:21.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[18Jul2025 22:21:21.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[18Jul2025 22:21:21.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 22:21:40.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Timed out
+[18Jul2025 22:21:40.350] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[18Jul2025 22:21:40.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[18Jul2025 22:21:40.409] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 22:21:53.617] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 22:21:55.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:59606] logged in with entity id 138877 at (-2471.4910873195895, 126.0, 4889.4887880300075)
+[18Jul2025 22:21:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[18Jul2025 22:21:59.770] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[18Jul2025 22:21:59.771] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 22:22:03.049] [Worker-Main-339/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[18Jul2025 22:22:04.704] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 22:22:05.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 22:22:06.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 22:22:06.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 22:28:01.532] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
