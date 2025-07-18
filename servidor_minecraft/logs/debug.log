@@ -12608,3 +12608,26 @@ java.lang.IllegalStateException: Asynchronous effect add!
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin,re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin,re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {re:mixin}
+[18Jul2025 22:30:19.338] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-773, y=16, z=1842} BlockPos{x=-772, y=14, z=1842}
+[18Jul2025 22:31:41.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:31:41.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145979, l='ServerLevel[world/DIM-1]', x=-635.50, y=-20.00, z=1850.50] died: Restless Spirit was killed
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145981, l='ServerLevel[world/DIM-1]', x=-634.50, y=-20.00, z=1850.50] died: Restless Spirit was killed
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145984, l='ServerLevel[world/DIM-1]', x=-634.50, y=-20.00, z=1853.50] died: Restless Spirit was killed
+[18Jul2025 22:33:23.233] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-522, y=16, z=1824} BlockPos{x=-522, y=15, z=1825}
+[18Jul2025 22:33:23.275] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-522, y=16, z=1824} BlockPos{x=-522, y=15, z=1824}
+[18Jul2025 22:34:32.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/146811, l='ServerLevel[world/DIM-1]', x=-550.50, y=-20.00, z=1807.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147435, l='ServerLevel[world/DIM-1]', x=-590.50, y=-20.00, z=1772.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147437, l='ServerLevel[world/DIM-1]', x=-590.50, y=-20.00, z=1769.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147439, l='ServerLevel[world/DIM-1]', x=-591.50, y=-20.00, z=1770.50] died: Restless Spirit was killed
+[18Jul2025 22:35:22.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147614, l='ServerLevel[world/DIM-1]', x=-497.50, y=-20.00, z=1816.50] died: Restless Spirit was killed
+[18Jul2025 22:35:28.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147754, l='ServerLevel[world/DIM-1]', x=-524.50, y=-20.00, z=1804.50] died: Restless Spirit was killed
+[18Jul2025 22:35:28.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147756, l='ServerLevel[world/DIM-1]', x=-523.50, y=-20.00, z=1804.50] died: Restless Spirit was killed
+[18Jul2025 22:35:33.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147865, l='ServerLevel[world/DIM-1]', x=-492.50, y=-20.00, z=1828.50] died: Restless Spirit was killed
+[18Jul2025 22:35:39.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147973, l='ServerLevel[world/DIM-1]', x=-585.50, y=-20.00, z=1729.50] died: Restless Spirit was killed
+[18Jul2025 22:35:39.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147976, l='ServerLevel[world/DIM-1]', x=-584.50, y=-20.00, z=1727.50] died: Restless Spirit was killed
+[18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148017, l='ServerLevel[world/DIM-1]', x=-542.50, y=-20.00, z=1784.50] died: Restless Spirit was killed
+[18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148019, l='ServerLevel[world/DIM-1]', x=-496.50, y=-20.00, z=1809.50] died: Restless Spirit was killed
+[18Jul2025 22:36:41.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:36:41.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:37:18.956] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-230, y=16, z=1732} BlockPos{x=-231, y=16, z=1732}

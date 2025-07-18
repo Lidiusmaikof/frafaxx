@@ -1811,3 +1811,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
 [18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
 [18Jul2025 22:28:01.533] [Worker-Main-393/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145979, l='ServerLevel[world/DIM-1]', x=-635.50, y=-20.00, z=1850.50] died: Restless Spirit was killed
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145981, l='ServerLevel[world/DIM-1]', x=-634.50, y=-20.00, z=1850.50] died: Restless Spirit was killed
+[18Jul2025 22:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/145984, l='ServerLevel[world/DIM-1]', x=-634.50, y=-20.00, z=1853.50] died: Restless Spirit was killed
+[18Jul2025 22:34:32.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/146811, l='ServerLevel[world/DIM-1]', x=-550.50, y=-20.00, z=1807.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147435, l='ServerLevel[world/DIM-1]', x=-590.50, y=-20.00, z=1772.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147437, l='ServerLevel[world/DIM-1]', x=-590.50, y=-20.00, z=1769.50] died: Restless Spirit was killed
+[18Jul2025 22:35:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147439, l='ServerLevel[world/DIM-1]', x=-591.50, y=-20.00, z=1770.50] died: Restless Spirit was killed
+[18Jul2025 22:35:22.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147614, l='ServerLevel[world/DIM-1]', x=-497.50, y=-20.00, z=1816.50] died: Restless Spirit was killed
+[18Jul2025 22:35:28.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147754, l='ServerLevel[world/DIM-1]', x=-524.50, y=-20.00, z=1804.50] died: Restless Spirit was killed
+[18Jul2025 22:35:28.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147756, l='ServerLevel[world/DIM-1]', x=-523.50, y=-20.00, z=1804.50] died: Restless Spirit was killed
+[18Jul2025 22:35:33.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147865, l='ServerLevel[world/DIM-1]', x=-492.50, y=-20.00, z=1828.50] died: Restless Spirit was killed
+[18Jul2025 22:35:39.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147973, l='ServerLevel[world/DIM-1]', x=-585.50, y=-20.00, z=1729.50] died: Restless Spirit was killed
+[18Jul2025 22:35:39.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/147976, l='ServerLevel[world/DIM-1]', x=-584.50, y=-20.00, z=1727.50] died: Restless Spirit was killed
+[18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148017, l='ServerLevel[world/DIM-1]', x=-542.50, y=-20.00, z=1784.50] died: Restless Spirit was killed
+[18Jul2025 22:35:42.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/148019, l='ServerLevel[world/DIM-1]', x=-496.50, y=-20.00, z=1809.50] died: Restless Spirit was killed
