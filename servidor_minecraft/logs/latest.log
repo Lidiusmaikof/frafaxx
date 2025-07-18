@@ -1552,3 +1552,46 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 20:45:59.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/80894, l='ServerLevel[world/DIM-1]', x=-258.30, y=35.20, z=653.30] died: Pipeline Sentry was shot by LastSamurai
 [18Jul2025 20:45:59.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90165, l='ServerLevel[world/DIM-1]', x=-345.50, y=-20.00, z=639.50] died: Toxic Slime was killed
 [18Jul2025 20:45:59.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90166, l='ServerLevel[world/DIM-1]', x=-349.50, y=-20.00, z=640.50] died: Toxic Slime was killed
+[18Jul2025 20:46:38.594] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 20:46:40.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:50515] logged in with entity id 90772 at (-2085.1098310199486, 123.0, 5000.062426488031)
+[18Jul2025 20:46:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 20:46:43.578] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 20:46:43.578] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 20:46:46.819] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 20:46:53.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 20:46:54.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 20:46:54.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 20:48:30.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90611, l='ServerLevel[world/DIM-1]', x=-302.50, y=-20.00, z=619.50] died: Toxic Slime was killed
+[18Jul2025 20:48:30.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90612, l='ServerLevel[world/DIM-1]', x=-301.50, y=-20.00, z=617.50] died: Toxic Slime was killed
+[18Jul2025 20:48:38.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai tried to swim in lava
+[18Jul2025 20:48:38.412] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[18Jul2025 20:48:38.420] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[18Jul2025 20:48:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai tried to swim in lava
+[18Jul2025 20:48:48.513] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:49:39.476] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:49:40.715] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:51:26.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92642, l='ServerLevel[world/DIM-1]', x=-302.26, y=-20.00, z=689.26] died: Toxic Slime was killed
+[18Jul2025 20:51:46.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92611, l='ServerLevel[world/DIM-1]', x=-358.26, y=-20.00, z=601.85] died: Toxic Slime was killed
+[18Jul2025 20:51:53.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92386, l='ServerLevel[world/DIM-1]', x=-257.50, y=-20.00, z=567.50] died: Toxic Slime was killed
+[18Jul2025 20:51:53.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92387, l='ServerLevel[world/DIM-1]', x=-256.50, y=-20.00, z=569.50] died: Toxic Slime was killed
+[18Jul2025 20:51:53.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92388, l='ServerLevel[world/DIM-1]', x=-258.50, y=-20.00, z=571.50] died: Toxic Slime was killed
+[18Jul2025 20:52:09.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92858, l='ServerLevel[world/DIM-1]', x=-370.11, y=-20.00, z=686.45] died: Toxic Slime was killed
+[18Jul2025 20:52:09.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92929, l='ServerLevel[world/DIM-1]', x=-408.50, y=-20.00, z=613.50] died: Toxic Slime was killed
+[18Jul2025 20:52:13.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/92964, l='ServerLevel[world/DIM-1]', x=-287.31, y=-20.00, z=586.26] died: Toxic Slime was killed
+[18Jul2025 20:52:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai fell from a high place
+[18Jul2025 20:52:44.069] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[18Jul2025 20:52:44.070] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[18Jul2025 20:52:47.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/93079, l='ServerLevel[world/DIM-1]', x=-384.07, y=-20.00, z=664.43] died: Toxic Slime was killed
+[18Jul2025 20:52:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai fell from a high place
+[18Jul2025 20:52:54.459] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:53:14.390] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:53:15.252] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:53:57.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94894, l='ServerLevel[world/DIM-1]', x=-383.47, y=-20.00, z=640.74] died: Toxic Slime was killed
+[18Jul2025 20:53:57.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94900, l='ServerLevel[world/DIM-1]', x=-372.91, y=-20.00, z=684.81] died: Toxic Slime was killed
+[18Jul2025 20:53:57.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94901, l='ServerLevel[world/DIM-1]', x=-378.42, y=-20.00, z=679.04] died: Toxic Slime was killed
+[18Jul2025 20:54:46.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94715, l='ServerLevel[world/DIM-1]', x=-315.43, y=-20.00, z=559.28] died: Toxic Slime was killed
+[18Jul2025 20:55:02.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94878, l='ServerLevel[world/DIM-1]', x=-314.50, y=-20.00, z=557.50] died: Toxic Slime was killed
+[18Jul2025 20:55:07.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94663, l='ServerLevel[world/DIM-1]', x=-255.28, y=-20.00, z=636.19] died: Toxic Slime was killed
+[18Jul2025 20:55:08.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94949, l='ServerLevel[world/DIM-1]', x=-391.50, y=-20.00, z=585.50] died: Toxic Slime was killed
+[18Jul2025 20:55:09.298] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:55:10.608] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
