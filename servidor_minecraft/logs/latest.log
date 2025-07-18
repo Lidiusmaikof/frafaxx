@@ -1617,3 +1617,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 03:51:42.345] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
 [18Jul2025 03:51:44.593] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
 [18Jul2025 03:52:04.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/VillagerCareerChangeEvent$ChangeReason
+[18Jul2025 03:56:33.674] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Linoxito is 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 03:56:35.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Linoxito[/100.121.139.117:56751] logged in with entity id 78678 at (-2433.5319485420005, 70.0, 4673.296475640828)
+[18Jul2025 03:56:35.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito joined the game
+[18Jul2025 03:56:38.017] [Server thread/INFO] [voicechat/]: Received secret request of Linoxito (18)
+[18Jul2025 03:56:38.018] [Server thread/INFO] [voicechat/]: Sent secret to Linoxito
+[18Jul2025 03:56:41.413] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 03:56:47.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 03:56:48.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 47c543d0-9f37-3114-a38a-09cb168e4a96
+[18Jul2025 03:56:48.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Linoxito (47c543d0-9f37-3114-a38a-09cb168e4a96) successfully connected to voice chat
+[18Jul2025 04:01:34.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 04:01:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 04:02:46.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 04:02:46.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 04:09:06.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[18Jul2025 04:11:20.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [What a Deal!]
