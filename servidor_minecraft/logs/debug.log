@@ -16290,3 +16290,11 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [18Jul2025 04:50:23.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 04:50:23.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 04:52:44.076] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BellBlock$1
+[18Jul2025 04:55:23.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:55:23.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:56:03.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 04:56:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 05:00:23.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 05:00:23.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 05:01:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [What a Deal!]
+[18Jul2025 05:04:14.685] [Async Chat Thread - #38/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> puta me ha hecho asustar

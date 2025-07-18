@@ -1666,3 +1666,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 04:49:19.077] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> zzz
 [18Jul2025 04:49:19.853] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> zzzzz
 [18Jul2025 04:49:26.929] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> zzzzzzzzzz
+[18Jul2025 04:56:03.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 04:56:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 05:01:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai has made the advancement [What a Deal!]
+[18Jul2025 05:04:14.685] [Async Chat Thread - #38/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> puta me ha hecho asustar
