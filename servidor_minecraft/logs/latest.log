@@ -1115,3 +1115,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 17:58:20.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
 [18Jul2025 17:58:49.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
 [18Jul2025 17:58:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 18:10:25.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[18Jul2025 18:10:25.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[18Jul2025 18:10:26.640] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 18:10:35.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[18Jul2025 18:10:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[18Jul2025 18:10:36.473] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
