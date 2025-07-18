@@ -1095,3 +1095,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 16:57:51.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [18Jul2025 17:01:07.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
 [18Jul2025 17:01:19.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[18Jul2025 17:08:39.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[18Jul2025 17:08:45.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [Die Classy]
+[18Jul2025 17:09:19.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerExpCooldownChangeEvent$ChangeReason
+[18Jul2025 17:11:48.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[18Jul2025 17:11:58.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [The long arm of the law]
+[18Jul2025 17:12:10.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tbgui
