@@ -16268,3 +16268,25 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [18Jul2025 04:33:15.603] [Server thread/CONFIG] [voicechat/]: Got state of VenaticWinner67: {disabled=false, disconnected=false, uuid=27624550-5762-38db-a0a7-5ccd77095ef1, name=VenaticWinner67, group=null}
 [18Jul2025 04:33:47.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
 [18Jul2025 04:33:47.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 04:35:23.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:35:23.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:37:46.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 04:37:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 04:39:07.648] [Async Chat Thread - #34/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> z
+[18Jul2025 04:40:23.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:40:23.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:43:02.407] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2079, y=121, z=4875} BlockPos{x=-2080, y=120, z=4877}
+[18Jul2025 04:43:02.407] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2079, y=121, z=4875} BlockPos{x=-2080, y=120, z=4877}
+[18Jul2025 04:43:02.674] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2079, y=121, z=4876} BlockPos{x=-2080, y=120, z=4877}
+[18Jul2025 04:43:02.683] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2079, y=121, z=4876} BlockPos{x=-2080, y=120, z=4877}
+[18Jul2025 04:43:07.453] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2083, y=121, z=4872} BlockPos{x=-2081, y=120, z=4870}
+[18Jul2025 04:45:23.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:45:23.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:47:36.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 04:47:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 04:49:19.077] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> zzz
+[18Jul2025 04:49:19.853] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> zzzzz
+[18Jul2025 04:49:26.929] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> zzzzzzzzzz
+[18Jul2025 04:50:23.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:50:23.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:52:44.076] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BellBlock$1
