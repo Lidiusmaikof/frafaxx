@@ -1674,3 +1674,52 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 05:04:51.253] [Async Chat Thread - #38/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> ñerda
 [18Jul2025 05:06:04.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
 [18Jul2025 05:06:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 05:15:49.009] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> ZZZZZZZZZZZZZZZZ
+[18Jul2025 05:16:59.266] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> ZZZZZZZZZZZZZZZZ
+[18Jul2025 05:17:25.698] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> zzzzz
+[18Jul2025 05:18:14.908] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> ZZZZZZZZZZ
+[18Jul2025 05:18:16.236] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:16.393] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:16.648] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:16.880] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:17.032] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:17.228] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:17.416] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:17.640] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> ZZ
+[18Jul2025 05:18:18.417] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:19.049] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:19.820] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:20.040] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:20.180] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:20.344] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:20.484] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastSamurai> Z
+[18Jul2025 05:18:20.485] [Async Chat Thread - #42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/craftbukkit/v1_20_R1/util/Waitable$Status
+[18Jul2025 05:18:20.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Kicked for spamming
+[18Jul2025 05:18:20.487] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[18Jul2025 05:18:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[18Jul2025 05:18:20.509] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 05:18:38.864] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 05:18:41.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:55982] logged in with entity id 96333 at (-2105.5, 123.5625, 5000.5)
+[18Jul2025 05:18:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[18Jul2025 05:18:45.109] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[18Jul2025 05:18:45.109] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[18Jul2025 05:18:50.155] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 05:18:51.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 05:18:52.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[18Jul2025 05:18:52.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[18Jul2025 05:21:10.220] [Async Chat Thread - #44/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> ee
+[18Jul2025 05:23:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Iron Golem
+[18Jul2025 05:23:37.598] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 05:23:37.615] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 05:23:47.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[18Jul2025 05:23:47.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[18Jul2025 05:23:47.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[18Jul2025 05:23:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito was slain by Iron Golem
+[18Jul2025 05:23:48.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerRespawnEvent$RespawnReason
+[18Jul2025 05:23:48.728] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[18Jul2025 05:23:52.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Iron Golem
+[18Jul2025 05:23:52.800] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 05:23:52.816] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 05:23:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [Chain Death]
+[18Jul2025 05:23:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito was slain by Iron Golem
+[18Jul2025 05:24:00.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.

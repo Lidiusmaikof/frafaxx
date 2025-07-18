@@ -6843,12 +6843,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-07-18 03:31:05 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-07-18 02:37:59 +0000"
@@ -6861,21 +6855,27 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-07-18 03:31:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-07-18 03:41:01 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-18 05:01:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-07-18 04:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-18 05:01:20 +0000"
     },
     "done": true
   },
