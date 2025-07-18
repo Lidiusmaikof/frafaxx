@@ -9463,3 +9463,26 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 17:11:48.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [18Jul2025 17:11:58.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [The long arm of the law]
 [18Jul2025 17:12:10.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tbgui
+[18Jul2025 17:16:25.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:16:25.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:16:30.773] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/inventory/RepairContainerMixin$1
+[18Jul2025 17:16:30.774] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/VanillaAnvilMenu$1
+[18Jul2025 17:16:30.775] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/ModAnvilMenu$1
+[18Jul2025 17:19:30.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 17:19:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 17:21:25.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:21:25.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:21:35.888] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ovh/corail/tombstone/perk/PerkTreasureSeeker$1
+[18Jul2025 17:26:19.122] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy
+[18Jul2025 17:26:19.125] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18Jul2025 17:26:19.130] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[18Jul2025 17:26:19.202] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Jul2025 17:26:21.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[18Jul2025 17:26:28.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:26:28.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:26:31.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 17:26:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 17:27:06.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 17:27:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 17:31:28.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:31:28.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
