@@ -9588,3 +9588,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 19:04:05.381] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
 [18Jul2025 19:04:05.428] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
 [18Jul2025 19:04:05.456] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=-2443, y=130, z=4825} BlockPos{x=-2442, y=129, z=4826}
+[18Jul2025 19:06:28.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 19:06:28.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 19:06:49.947] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[18Jul2025 19:06:49.947] [Server thread/INFO] [Console/]: Current Memory Usage: 1623/2048 mb (Max: 12288 mb)
+[18Jul2025 19:11:28.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 19:11:28.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 19:12:05.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 19:12:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 57.5 4664
+[18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 57.500000, 4664.500000]

@@ -1133,3 +1133,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 18:44:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
 [18Jul2025 18:44:12.605] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
 [18Jul2025 19:01:56.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[18Jul2025 19:06:49.947] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[18Jul2025 19:06:49.947] [Server thread/INFO] [Console/]: Current Memory Usage: 1623/2048 mb (Max: 12288 mb)
+[18Jul2025 19:12:05.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 19:12:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 57.5 4664
+[18Jul2025 19:13:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 57.500000, 4664.500000]
