@@ -6895,6 +6895,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-18 21:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-18 20:06:13 +0000"
@@ -6903,7 +6909,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -6963,7 +6969,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -6982,6 +6988,12 @@
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-18 21:47:23 +0000"
     },
     "done": true
   },
@@ -7023,7 +7035,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7107,7 +7119,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7173,13 +7185,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7232,6 +7244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-18 21:47:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-07-18 19:57:55 +0000"
@@ -7252,7 +7270,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7303,7 +7321,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7351,7 +7369,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7375,9 +7393,15 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 21:47:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
@@ -7405,7 +7429,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },
@@ -7435,7 +7459,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:46:41 +0000"
+      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
     },
     "done": false
   },

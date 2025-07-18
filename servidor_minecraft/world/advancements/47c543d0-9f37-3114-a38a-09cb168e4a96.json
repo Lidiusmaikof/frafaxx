@@ -1676,6 +1676,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-10 02:26:39 +0000",
+      "minecraft:blaze": "2025-07-18 21:55:54 +0000",
       "minecraft:skeleton": "2025-07-10 02:43:30 +0000",
       "minecraft:vindicator": "2025-07-10 02:30:20 +0000",
       "minecraft:magma_cube": "2025-07-18 21:41:48 +0000",
@@ -5726,6 +5727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-18 21:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-18 21:40:14 +0000"
@@ -5759,6 +5766,12 @@
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-07-18 21:44:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-07-18 21:55:54 +0000"
     },
     "done": true
   },
@@ -5804,6 +5817,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-07-18 21:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-18 20:59:51 +0000"
@@ -5813,6 +5832,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-07-18 21:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-18 21:49:18 +0000"
     },
     "done": true
   },

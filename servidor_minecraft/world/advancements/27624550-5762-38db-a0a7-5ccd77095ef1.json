@@ -1700,6 +1700,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-10 16:02:19 +0000",
+      "minecraft:blaze": "2025-07-18 21:47:43 +0000",
       "minecraft:skeleton": "2025-07-09 18:21:33 +0000",
       "minecraft:ravager": "2025-07-16 00:01:20 +0000",
       "minecraft:vindicator": "2025-07-10 16:05:17 +0000",
@@ -6887,6 +6888,42 @@
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-07-18 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-07-18 21:47:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-07-18 21:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-18 21:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-18 21:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-18 21:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-18 21:55:48 +0000"
     },
     "done": true
   },

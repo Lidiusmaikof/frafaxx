@@ -1717,3 +1717,23 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 21:46:39.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109225, l='ServerLevel[world/DIM-1]', x=-277.50, y=-20.00, z=582.50] died: Toxic Slime was killed
 [18Jul2025 21:47:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [UNLIMITED POWER!!!]
 [18Jul2025 21:47:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [UNLIMITED POWER!!!]
+[18Jul2025 21:47:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has reached the goal [Ceci n'est pas un blaze]
+[18Jul2025 21:47:43.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/108082, l='ServerLevel[world/DIM-1]', x=-250.70, y=51.00, z=779.70] died: Pipeline Sentry was slain by VenaticWinner67 using [| Sword Black |]
+[18Jul2025 21:48:33.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52812, l='ServerLevel[world/DIM-1]', x=-246.86, y=52.00, z=785.14] died: Pipeline Sentry was slain by VenaticWinner67 using [| Sword Black |]
+[18Jul2025 21:52:27.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Disconnected
+[18Jul2025 21:52:27.057] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[18Jul2025 21:52:27.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game
+[18Jul2025 21:52:28.399] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 21:52:30.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VenaticWinner67[/100.87.58.7:52234] logged in with entity id 113351 at (-233.6720041286284, 26.04922386819743, 776.4361561774537)
+[18Jul2025 21:52:30.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 joined the game
+[18Jul2025 21:52:30.511] [Server thread/INFO] [voicechat/]: Received secret request of VenaticWinner67 (18)
+[18Jul2025 21:52:30.511] [Server thread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[18Jul2025 21:52:33.911] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[18Jul2025 21:52:34.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 21:52:36.194] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[18Jul2025 21:52:36.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[18Jul2025 21:55:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [Ceci n'est pas un blaze]
+[18Jul2025 21:55:54.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52737, l='ServerLevel[world/DIM-1]', x=-300.70, y=31.85, z=779.70] died: Pipeline Sentry was shot by Linoxito
+[18Jul2025 21:56:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
+[18Jul2025 21:56:08.656] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 21:56:08.661] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
