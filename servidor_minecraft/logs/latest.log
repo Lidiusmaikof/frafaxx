@@ -1595,3 +1595,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 20:55:08.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/94949, l='ServerLevel[world/DIM-1]', x=-391.50, y=-20.00, z=585.50] died: Toxic Slime was killed
 [18Jul2025 20:55:09.298] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
 [18Jul2025 20:55:10.608] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 20:56:54.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 57.5 4664
+[18Jul2025 20:56:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 57.500000, 4664.500000]
+[18Jul2025 21:01:47.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
