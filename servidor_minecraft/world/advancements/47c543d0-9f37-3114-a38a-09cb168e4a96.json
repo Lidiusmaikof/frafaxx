@@ -19,10 +19,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-07-18 21:06:41 +0000",
       "log_spam_fixer": "2025-07-10 00:13:07 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1681,6 +1680,8 @@
       "minecraft:vindicator": "2025-07-10 02:30:20 +0000",
       "minecraft:spider": "2025-07-10 03:01:54 +0000",
       "minecraft:creeper": "2025-07-11 01:40:18 +0000",
+      "minecraft:wither_skeleton": "2025-07-18 21:07:59 +0000",
+      "minecraft:stray": "2025-07-18 21:07:57 +0000",
       "minecraft:zombie": "2025-07-10 00:27:31 +0000",
       "minecraft:drowned": "2025-07-10 02:30:23 +0000"
     },
