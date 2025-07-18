@@ -1110,3 +1110,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 17:26:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
 [18Jul2025 17:27:06.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
 [18Jul2025 17:27:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
+[18Jul2025 17:57:19.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[18Jul2025 17:58:20.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[18Jul2025 17:58:20.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[18Jul2025 17:58:49.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2457 39.5 4664
+[18Jul2025 17:58:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2456.500000, 39.500000, 4664.500000]
