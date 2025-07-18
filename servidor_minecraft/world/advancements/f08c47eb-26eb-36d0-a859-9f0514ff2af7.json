@@ -79,6 +79,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-07-11 04:46:42 +0000",
       "minecraft:flower_forest": "2025-07-18 02:49:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-09 19:01:11 +0000",
+      "minecraft:deep_dark": "2025-07-18 03:32:18 +0000",
       "minecraft:meadow": "2025-07-10 17:45:36 +0000",
       "minecraft:savanna": "2025-07-11 05:03:22 +0000",
       "minecraft:plains": "2025-07-09 18:28:24 +0000"
@@ -1560,7 +1561,8 @@
       "glow_berries": "2025-07-09 18:13:05 +0000",
       "melon_slice": "2025-07-15 23:23:22 +0000",
       "cooked_rabbit": "2025-07-10 03:37:28 +0000",
-      "cooked_chicken": "2025-07-10 03:36:10 +0000"
+      "cooked_chicken": "2025-07-10 03:36:10 +0000",
+      "carrot": "2025-07-18 03:33:16 +0000"
     },
     "done": false
   },
@@ -6837,6 +6839,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-07-15 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-07-18 03:31:05 +0000"
     },
     "done": true
   },
