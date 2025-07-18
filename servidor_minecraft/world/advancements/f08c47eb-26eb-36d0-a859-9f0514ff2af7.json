@@ -6907,12 +6907,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-18 19:57:55 +0000"
@@ -6966,12 +6960,6 @@
       "blaze_rod": "2025-07-18 19:32:29 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
@@ -7032,12 +7020,6 @@
       "has_quartz": "2025-07-18 19:36:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
@@ -7117,12 +7099,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-07-18 20:25:34 +0000"
@@ -7183,24 +7159,18 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-07-18 19:53:50 +0000",
       "incendium:toxic_heap": "2025-07-18 19:25:08 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-18 22:06:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
@@ -7268,12 +7238,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-07-18 19:29:30 +0000"
@@ -7319,11 +7283,11 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
+      "has_pink_tulip": "2025-07-18 22:06:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
@@ -7367,12 +7331,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-07-18 20:18:44 +0000"
@@ -7390,12 +7348,6 @@
       "requirement": "2025-07-18 20:19:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
@@ -7427,12 +7379,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-18 19:36:36 +0000"
@@ -7456,12 +7402,6 @@
       "has_quartz": "2025-07-18 19:36:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-18 21:56:41 +0000"
-    },
-    "done": false
   },
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {

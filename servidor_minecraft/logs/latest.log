@@ -1737,3 +1737,56 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18Jul2025 21:56:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
 [18Jul2025 21:56:08.656] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
 [18Jul2025 21:56:08.661] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[18Jul2025 21:58:37.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Hidden in the Depths]
+[18Jul2025 21:58:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Hidden in the Depths]
+[18Jul2025 22:00:04.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Strange Biomes]
+[18Jul2025 22:00:08.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai is bleeding. LastSamurai was slain by Tiger
+[18Jul2025 22:00:08.032] [Server thread/WARN] [tombstone/]: The death event of the player LastSamurai was canceled by another mod
+[18Jul2025 22:00:08.044] [Server thread/INFO] [tombstone/]: The player LastSamurai has successfully been saved
+[18Jul2025 22:00:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai was slain by Tiger
+[18Jul2025 22:00:18.749] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[18Jul2025 22:00:21.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/115354, l='ServerLevel[world/DIM-1]', x=-462.50, y=-20.00, z=779.50] died: Toxic Slime was killed
+[18Jul2025 22:00:30.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Strange Biomes]
+[18Jul2025 22:00:31.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/115461, l='ServerLevel[world/DIM-1]', x=-463.50, y=-20.00, z=714.50] died: Toxic Slime was killed
+[18Jul2025 22:00:35.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/115523, l='ServerLevel[world/DIM-1]', x=-499.50, y=-20.00, z=759.50] died: Toxic Slime was killed
+[18Jul2025 22:00:51.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/115834, l='ServerLevel[world/DIM-1]', x=-495.50, y=-20.00, z=698.50] died: Toxic Slime was killed
+[18Jul2025 22:00:51.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/115835, l='ServerLevel[world/DIM-1]', x=-495.50, y=-20.00, z=695.50] died: Toxic Slime was killed
+[18Jul2025 22:06:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/122767, l='ServerLevel[world/DIM-1]', x=-1036.50, y=-20.00, z=825.50] died: Restless Spirit was killed
+[18Jul2025 22:06:06.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/122912, l='ServerLevel[world/DIM-1]', x=-1092.50, y=-20.00, z=793.50] died: Restless Spirit was killed
+[18Jul2025 22:06:08.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/123051, l='ServerLevel[world/DIM-1]', x=-1087.50, y=-20.00, z=836.50] died: Restless Spirit was killed
+[18Jul2025 22:06:32.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/123557, l='ServerLevel[world/DIM-1]', x=-1103.50, y=-20.00, z=788.50] died: Restless Spirit was killed
+[18Jul2025 22:06:40.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/123765, l='ServerLevel[world/DIM-1]', x=-1118.50, y=-20.00, z=775.50] died: Restless Spirit was killed
+[18Jul2025 22:06:50.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/123919, l='ServerLevel[world/DIM-1]', x=-1154.50, y=-20.00, z=825.50] died: Restless Spirit was killed
+[18Jul2025 22:06:50.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/123921, l='ServerLevel[world/DIM-1]', x=-1154.50, y=-20.00, z=830.50] died: Restless Spirit was killed
+[18Jul2025 22:07:03.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124111, l='ServerLevel[world/DIM-1]', x=-1097.50, y=-20.00, z=788.50] died: Restless Spirit was killed
+[18Jul2025 22:07:03.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124113, l='ServerLevel[world/DIM-1]', x=-1096.50, y=-20.00, z=788.50] died: Restless Spirit was killed
+[18Jul2025 22:07:11.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124231, l='ServerLevel[world/DIM-1]', x=-1050.50, y=-20.00, z=804.50] died: Restless Spirit was killed
+[18Jul2025 22:07:11.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124234, l='ServerLevel[world/DIM-1]', x=-1051.50, y=-20.00, z=804.50] died: Restless Spirit was killed
+[18Jul2025 22:07:11.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124237, l='ServerLevel[world/DIM-1]', x=-1053.50, y=-20.00, z=798.50] died: Restless Spirit was killed
+[18Jul2025 22:08:33.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/125613, l='ServerLevel[world/DIM-1]', x=-1107.50, y=-20.00, z=922.50] died: Restless Spirit was killed
+[18Jul2025 22:08:36.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/125720, l='ServerLevel[world/DIM-1]', x=-1032.50, y=-20.00, z=946.50] died: Restless Spirit was killed
+[18Jul2025 22:08:36.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/125722, l='ServerLevel[world/DIM-1]', x=-1032.50, y=-20.00, z=949.50] died: Restless Spirit was killed
+[18Jul2025 22:08:46.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/125850, l='ServerLevel[world/DIM-1]', x=-1106.50, y=-20.00, z=930.50] died: Restless Spirit was killed
+[18Jul2025 22:08:57.823] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:08:57.824] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:08:57.824] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:08:57.824] [Worker-Main-391/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[18Jul2025 22:09:55.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/126705, l='ServerLevel[world/DIM-1]', x=-1131.50, y=-20.00, z=1014.50] died: Restless Spirit was killed
+[18Jul2025 22:09:57.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/126818, l='ServerLevel[world/DIM-1]', x=-1136.50, y=-20.00, z=974.50] died: Restless Spirit was killed
+[18Jul2025 22:09:57.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/126820, l='ServerLevel[world/DIM-1]', x=-1139.50, y=-20.00, z=972.50] died: Restless Spirit was killed
+[18Jul2025 22:10:15.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127255, l='ServerLevel[world/DIM-1]', x=-1101.50, y=-20.00, z=993.50] died: Restless Spirit was killed
+[18Jul2025 22:10:15.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127258, l='ServerLevel[world/DIM-1]', x=-1103.50, y=-20.00, z=994.50] died: Restless Spirit was killed
+[18Jul2025 22:10:29.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127454, l='ServerLevel[world/DIM-1]', x=-1082.50, y=-20.00, z=1004.50] died: Restless Spirit was killed
+[18Jul2025 22:10:29.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127456, l='ServerLevel[world/DIM-1]', x=-1080.50, y=-20.00, z=1006.50] died: Restless Spirit was killed
+[18Jul2025 22:10:29.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127458, l='ServerLevel[world/DIM-1]', x=-1081.50, y=-20.00, z=1007.50] died: Restless Spirit was killed
+[18Jul2025 22:11:17.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/127798, l='ServerLevel[world/DIM-1]', x=-1166.50, y=-20.00, z=1008.50] died: Restless Spirit was killed
+[18Jul2025 22:11:27.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128024, l='ServerLevel[world/DIM-1]', x=-1055.50, y=-20.00, z=1118.50] died: Restless Spirit was killed
+[18Jul2025 22:11:37.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128275, l='ServerLevel[world/DIM-1]', x=-1068.50, y=-20.00, z=1037.50] died: Restless Spirit was killed
+[18Jul2025 22:12:07.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128555, l='ServerLevel[world/DIM-1]', x=-1104.90, y=-20.00, z=1100.81] died: Restless Spirit was killed
+[18Jul2025 22:12:11.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128583, l='ServerLevel[world/DIM-1]', x=-1089.50, y=-20.00, z=1157.50] died: Restless Spirit was killed
+[18Jul2025 22:12:11.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128585, l='ServerLevel[world/DIM-1]', x=-1087.50, y=-20.00, z=1155.50] died: Restless Spirit was killed
+[18Jul2025 22:12:50.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/128936, l='ServerLevel[world/DIM-1]', x=-1081.50, y=-20.00, z=1164.50] died: Restless Spirit was killed
+[18Jul2025 22:13:31.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/TNTPrimeEvent$PrimeCause
+[18Jul2025 22:17:01.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
+[18Jul2025 22:17:01.602] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[18Jul2025 22:17:01.609] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
