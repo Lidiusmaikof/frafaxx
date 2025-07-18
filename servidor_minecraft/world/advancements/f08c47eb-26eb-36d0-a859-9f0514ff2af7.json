@@ -3653,6 +3653,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-10 17:43:35 +0000",
+      "minecraft:blaze": "2025-07-18 19:32:29 +0000",
       "minecraft:skeleton": "2025-07-09 19:05:14 +0000",
       "minecraft:hoglin": "2025-07-10 16:45:47 +0000",
       "minecraft:vindicator": "2025-07-10 17:52:07 +0000",
@@ -6887,6 +6888,42 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-18 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-07-18 19:25:08 +0000"
@@ -6902,6 +6939,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-07-18 19:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-18 19:31:56 +0000"
     },
     "done": true
   },
@@ -6929,9 +6972,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-18 19:31:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2025-07-18 19:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-18 19:36:36 +0000"
     },
     "done": true
   },
@@ -6947,9 +7014,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-18 19:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-18 19:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-18 19:32:29 +0000"
     },
     "done": true
   },
