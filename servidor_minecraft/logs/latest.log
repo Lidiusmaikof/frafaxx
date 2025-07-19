@@ -1235,3 +1235,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 05:31:34.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
 [19Jul2025 05:37:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Cover Me in Debris]
 [19Jul2025 05:38:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Crafting a New Look]
+[19Jul2025 05:47:44.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
