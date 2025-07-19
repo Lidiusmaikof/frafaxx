@@ -12771,3 +12771,9 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [19Jul2025 06:23:24.715] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1856, y=127, z=4478}) doesn't have enough leaves around top most log
 [19Jul2025 06:23:25.438] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1856, y=125, z=4478}) doesn't have enough leaves around top most log
 [19Jul2025 06:23:26.142] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1856, y=124, z=4478}) doesn't have enough leaves around top most log
+[19Jul2025 06:26:22.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:26:22.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:28:20.505] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1847, y=124, z=4469}) doesn't have enough leaves around top most log
+[19Jul2025 06:30:17.735] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1860, y=124, z=4477}) doesn't have enough leaves around top most log
+[19Jul2025 06:31:22.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:31:22.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
