@@ -1131,3 +1131,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 04:40:39.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
 [19Jul2025 04:40:40.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
 [19Jul2025 04:40:40.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[19Jul2025 04:43:20.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/7772, l='ServerLevel[world/DIM-1]', x=997.00, y=47.00, z=3556.59] died: Ghast Sentry was shot by VenaticWinner67 using [| Diva |]
+[19Jul2025 04:44:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [Pocket Edition Alpha]
+[19Jul2025 04:47:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Straddle My Ol' Saddle]
+[19Jul2025 04:50:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito fell from a high place
+[19Jul2025 04:50:14.227] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[19Jul2025 04:50:14.228] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved

@@ -9866,3 +9866,23 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [19Jul2025 04:40:41.540] [Server thread/CONFIG] [voicechat/]: Got state of LastSamurai: {disabled=true, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
 [19Jul2025 04:41:16.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 04:41:16.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:42:40.477] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/Level$2
+[19Jul2025 04:43:20.871] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/item/Item$1
+[19Jul2025 04:43:20.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/7772, l='ServerLevel[world/DIM-1]', x=997.00, y=47.00, z=3556.59] died: Ghast Sentry was shot by VenaticWinner67 using [| Diva |]
+[19Jul2025 04:44:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has reached the goal [Pocket Edition Alpha]
+[19Jul2025 04:45:49.173] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1065, y=41, z=3520} BlockPos{x=1064, y=42, z=3520}
+[19Jul2025 04:45:51.724] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1066, y=43, z=3520} BlockPos{x=1065, y=43, z=3520}
+[19Jul2025 04:46:16.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:46:16.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:47:23.269] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/github/alexthe666/alexsmobs/entity/EntityStradpole$1
+[19Jul2025 04:47:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Straddle My Ol' Saddle]
+[19Jul2025 04:50:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito fell from a high place
+[19Jul2025 04:50:14.227] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[19Jul2025 04:50:14.228] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[19Jul2025 04:51:16.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:51:16.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:51:25.155] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1281, y=61, z=3497} BlockPos{x=1283, y=61, z=3497}
+[19Jul2025 04:51:25.222] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1281, y=61, z=3497} BlockPos{x=1283, y=61, z=3497}
+[19Jul2025 04:51:25.276] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1281, y=61, z=3497} BlockPos{x=1283, y=61, z=3497}
+[19Jul2025 04:51:25.307] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1281, y=61, z=3497} BlockPos{x=1283, y=61, z=3497}
+[19Jul2025 04:51:25.372] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=1281, y=61, z=3497} BlockPos{x=1283, y=61, z=3497}

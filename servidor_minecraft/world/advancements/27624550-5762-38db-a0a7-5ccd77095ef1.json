@@ -1703,6 +1703,7 @@
       "minecraft:blaze": "2025-07-18 21:47:43 +0000",
       "minecraft:skeleton": "2025-07-09 18:21:33 +0000",
       "minecraft:ravager": "2025-07-16 00:01:20 +0000",
+      "minecraft:ghast": "2025-07-19 04:43:20 +0000",
       "minecraft:vindicator": "2025-07-10 16:05:17 +0000",
       "minecraft:magma_cube": "2025-07-18 21:43:15 +0000",
       "minecraft:spider": "2025-07-09 17:53:26 +0000",
@@ -7206,6 +7207,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-19 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-07-19 04:04:47 +0000"
@@ -7236,12 +7249,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:42:59 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
       "waste": "2025-07-19 04:40:04 +0000",
+      "junk": "2025-07-19 04:44:44 +0000",
       "treasure": "2025-07-19 04:38:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-19 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green1": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 04:42:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
@@ -7252,6 +7284,12 @@
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
       "incendium:treasure": "2025-07-19 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime1": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 04:42:59 +0000"
     },
     "done": true
   },
