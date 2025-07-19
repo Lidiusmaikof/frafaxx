@@ -12897,3 +12897,12 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [19Jul2025 06:39:40.098] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-1496 | 81 | 4318)
 [19Jul2025 06:41:22.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 06:41:23.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:46:22.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:46:22.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:48:52.935] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1845, y=125, z=4488}) doesn't have enough leaves around top most log
+[19Jul2025 06:48:53.666] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1845, y=126, z=4488}) doesn't have enough leaves around top most log
+[19Jul2025 06:48:54.403] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1845, y=127, z=4488}) doesn't have enough leaves around top most log
+[19Jul2025 06:48:55.098] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1845, y=128, z=4488}) doesn't have enough leaves around top most log
+[19Jul2025 06:48:56.002] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1845, y=124, z=4488}) doesn't have enough leaves around top most log
+[19Jul2025 06:51:22.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:51:22.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
