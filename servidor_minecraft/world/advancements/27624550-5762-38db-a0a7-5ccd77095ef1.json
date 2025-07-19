@@ -7236,9 +7236,22 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-07-19 04:40:04 +0000",
+      "treasure": "2025-07-19 04:38:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-07-19 04:38:11 +0000"
     },
     "done": true
   },
