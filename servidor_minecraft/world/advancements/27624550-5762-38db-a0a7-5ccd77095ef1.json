@@ -4569,7 +4569,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-18 22:12:46 +0000",
       "minecraft:nether_wastes": "2025-07-18 22:36:47 +0000",
-      "minecraft:basalt_deltas": "2025-07-10 16:24:31 +0000"
+      "minecraft:basalt_deltas": "2025-07-10 16:24:31 +0000",
+      "minecraft:warped_forest": "2025-07-19 04:21:12 +0000"
     },
     "done": false
   },
@@ -6885,6 +6886,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-07-19 04:13:53 +0000",
       "incendium:weeping_valley": "2025-07-18 22:00:04 +0000",
       "incendium:inverted_forest": "2025-07-18 22:41:05 +0000",
       "incendium:toxic_heap": "2025-07-18 21:40:13 +0000"
@@ -7200,6 +7202,18 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-07-19 04:04:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-19 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-19 04:17:02 +0000"
     },
     "done": true
   },

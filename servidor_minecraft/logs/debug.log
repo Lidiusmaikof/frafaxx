@@ -9342,3 +9342,107 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 04:09:36.564] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> donde istas??
 [19Jul2025 04:09:49.328] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> donde se corto el server
 [19Jul2025 04:10:08.826] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> entra a la bastion pus
+[19Jul2025 04:10:55.133] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> yayya
+[19Jul2025 04:11:13.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:11:13.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:11:32.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Jul2025 04:11:32.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[19Jul2025 04:13:01.650] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/StructurePiece$1
+[19Jul2025 04:13:52.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito burned to death
+[19Jul2025 04:13:52.770] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[19Jul2025 04:13:52.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[19Jul2025 04:13:52.777] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[19Jul2025 04:13:53.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [The Dust Settles]
+[19Jul2025 04:13:59.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Jul2025 04:13:59.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[19Jul2025 04:13:59.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[19Jul2025 04:13:59.595] [Server thread/DEBUG] [tombstone/]: A new grave of the player Linoxito was created at position [x:562, y:32, z:2915, dim:minecraft:the_nether]
+[19Jul2025 04:13:59.595] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ovh/corail/tombstone/block/GraveModel$1
+[19Jul2025 04:13:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito was doomed to fall
+[19Jul2025 04:13:59.603] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[19Jul2025 04:14:02.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerRespawnEvent$RespawnReason
+[19Jul2025 04:14:02.205] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BedBlock$1
+[19Jul2025 04:14:02.291] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[19Jul2025 04:14:02.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[19Jul2025 04:14:02.538] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[19Jul2025 04:14:03.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[19Jul2025 04:14:03.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[19Jul2025 04:14:03.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[19Jul2025 04:14:03.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[19Jul2025 04:14:03.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[19Jul2025 04:14:03.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[19Jul2025 04:14:03.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[19Jul2025 04:14:03.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[19Jul2025 04:14:03.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[19Jul2025 04:14:03.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[19Jul2025 04:14:03.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[19Jul2025 04:14:03.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[19Jul2025 04:14:03.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[19Jul2025 04:14:03.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[19Jul2025 04:14:03.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[19Jul2025 04:14:03.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[19Jul2025 04:14:03.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[19Jul2025 04:14:03.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[19Jul2025 04:14:03.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[19Jul2025 04:14:03.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[19Jul2025 04:14:03.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[19Jul2025 04:14:03.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[19Jul2025 04:14:03.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[19Jul2025 04:14:03.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[19Jul2025 04:14:03.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[19Jul2025 04:14:03.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[19Jul2025 04:14:03.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[19Jul2025 04:14:03.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[19Jul2025 04:14:03.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[19Jul2025 04:14:03.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[19Jul2025 04:14:03.085] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RodBlock$1
+[19Jul2025 04:14:03.093] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[19Jul2025 04:14:03.097] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class xiroc/dungeoncrawl/dungeon/piece/DungeonEntrance$1
+[19Jul2025 04:14:03.098] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class xiroc/dungeoncrawl/dungeon/model/DungeonModel$1
+[19Jul2025 04:14:03.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[19Jul2025 04:14:03.424] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/HopperBlock$1
+[19Jul2025 04:14:03.460] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ItemFrame$2
+[19Jul2025 04:14:03.733] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[19Jul2025 04:14:03.903] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[19Jul2025 04:14:04.144] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[19Jul2025 04:14:04.261] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> jaajajajajajaajaj
+[19Jul2025 04:14:04.331] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[19Jul2025 04:14:04.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[19Jul2025 04:14:04.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[19Jul2025 04:14:04.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[19Jul2025 04:14:04.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[19Jul2025 04:14:05.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[19Jul2025 04:14:05.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[19Jul2025 04:14:06.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[19Jul2025 04:14:06.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[19Jul2025 04:14:08.794] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> jajajajaja
+[19Jul2025 04:14:10.639] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> puuu
+[19Jul2025 04:14:22.284] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> enderpel
+[19Jul2025 04:14:30.112] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FenceGateBlock$1
+[19Jul2025 04:14:34.563] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> DIOSES !! ESCUCHEN MIS PLEGARIAS
+[19Jul2025 04:14:58.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /give Linoxito minecraft:ender_pearl 1
+[19Jul2025 04:14:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Gave 1 [Ender Pearl] to Linoxito]
+[19Jul2025 04:15:10.382] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> DIOSES !!
+[19Jul2025 04:15:22.190] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> UFUF
+[19Jul2025 04:15:27.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[19Jul2025 04:15:35.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya esta humno miserable
+[19Jul2025 04:15:43.423] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> PUTO
+[19Jul2025 04:15:46.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[19Jul2025 04:15:50.690] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[19Jul2025 04:15:51.144] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class xiroc/dungeoncrawl/util/Orientation$1
+[19Jul2025 04:15:51.694] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> uthaaa
+[19Jul2025 04:15:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [The Dust Settles]
+[19Jul2025 04:16:10.074] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[19Jul2025 04:16:13.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:16:13.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:18:10.092] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/BackpackWrapper$2
+[19Jul2025 04:18:10.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Jul2025 04:18:43.107] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[19Jul2025 04:18:43.203] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[19Jul2025 04:18:43.449] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/NetherPortalBlock$1
+[19Jul2025 04:20:50.876] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RotatedPillarBlock$1
+[19Jul2025 04:21:02.916] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/StairBlock$1
+[19Jul2025 04:21:02.917] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Rotation$1
+[19Jul2025 04:21:12.679] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/WallBlock$1
+[19Jul2025 04:21:13.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:21:13.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
