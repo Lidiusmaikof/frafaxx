@@ -1242,3 +1242,41 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 05:56:10.796] [Server thread/INFO] [com.github.NGoedix.watchvideo.Reference/]: Not blocked
 [19Jul2025 05:59:17.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
 [19Jul2025 06:03:18.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
+[19Jul2025 06:03:28.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a 100 https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
+[19Jul2025 06:03:28.828] [Server thread/INFO] [com.github.NGoedix.watchvideo.Reference/]: Not blocked
+[19Jul2025 06:06:14.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a 100 https://www.youtube.com/watch?v=NT4eF9YsYnM&list=RDNT4eF9YsYnM&start_radio=1
+[19Jul2025 06:06:14.120] [Server thread/INFO] [com.github.NGoedix.watchvideo.Reference/]: Not blocked
+[19Jul2025 06:07:52.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[19Jul2025 06:07:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: VenaticWinner67, LastSamurai
+[19Jul2025 06:08:19.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Kicked by an operator
+[19Jul2025 06:08:19.269] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[19Jul2025 06:08:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[19Jul2025 06:08:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked LastSamurai: Kicked by an operator
+[19Jul2025 06:08:19.326] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 06:08:24.296] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 06:08:26.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:64296] logged in with entity id 33389 at (-1862.6169107171586, 124.0, 4488.399226983092)
+[19Jul2025 06:08:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[19Jul2025 06:08:27.724] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[19Jul2025 06:08:27.724] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 06:08:31.621] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[19Jul2025 06:08:35.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 06:08:36.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 06:08:36.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[19Jul2025 06:08:43.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Kicked by an operator
+[19Jul2025 06:08:43.769] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[19Jul2025 06:08:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game.
+[19Jul2025 06:08:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked VenaticWinner67: Kicked by an operator
+[19Jul2025 06:08:43.825] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 06:08:51.831] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VenaticWinner67 is 27624550-5762-38db-a0a7-5ccd77095ef1
+[19Jul2025 06:08:53.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VenaticWinner67[/100.87.58.7:64798] logged in with entity id 33818 at (-2291.1614116212772, 109.0, 4770.071689542059)
+[19Jul2025 06:08:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 joined the game
+[19Jul2025 06:08:54.539] [Server thread/INFO] [voicechat/]: Received secret request of VenaticWinner67 (18)
+[19Jul2025 06:08:54.540] [Server thread/INFO] [voicechat/]: Sent secret to VenaticWinner67
+[19Jul2025 06:08:59.102] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[19Jul2025 06:08:59.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[19Jul2025 06:09:00.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[19Jul2025 06:09:00.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[19Jul2025 06:09:17.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 lost connection: Disconnected
+[19Jul2025 06:09:17.967] [Server thread/INFO] [voicechat/]: Disconnecting client VenaticWinner67
+[19Jul2025 06:09:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 left the game
+[19Jul2025 06:21:09.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
