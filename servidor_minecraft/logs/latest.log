@@ -1200,3 +1200,36 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 05:21:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
 [19Jul2025 05:21:35.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp Linoxito VenaticWinner67
 [19Jul2025 05:21:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported Linoxito to VenaticWinner67]
+[19Jul2025 05:23:43.537] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Linoxito> JAJAJAJA
+[19Jul2025 05:25:03.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Linoxito lost connection: Disconnected
+[19Jul2025 05:25:03.169] [Server thread/INFO] [voicechat/]: Disconnecting client Linoxito
+[19Jul2025 05:25:03.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito left the game
+[19Jul2025 05:26:17.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode spectator
+[19Jul2025 05:26:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[19Jul2025 05:26:18.626] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[19Jul2025 05:26:27.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp VenaticWinner67 LastSamurai
+[19Jul2025 05:26:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to LastSamurai]
+[19Jul2025 05:28:36.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp VenaticWinner67 LastSamurai
+[19Jul2025 05:28:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to LastSamurai]
+[19Jul2025 05:28:49.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[19Jul2025 05:28:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[19Jul2025 05:28:56.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /gamemode survival
+[19Jul2025 05:28:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Set own game mode to Survival Mode]
+[19Jul2025 05:28:57.435] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[19Jul2025 05:29:50.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[19Jul2025 05:30:35.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[19Jul2025 05:30:35.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[19Jul2025 05:30:35.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:30:42.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Timed out
+[19Jul2025 05:30:42.519] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[19Jul2025 05:30:42.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[19Jul2025 05:30:42.620] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 05:31:25.857] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:31:27.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:64121] logged in with entity id 30934 at (-1865.2090935823314, 124.0, 4490.644682585561)
+[19Jul2025 05:31:27.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[19Jul2025 05:31:28.527] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[19Jul2025 05:31:28.527] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:31:31.578] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[19Jul2025 05:31:33.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:31:34.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:31:34.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
