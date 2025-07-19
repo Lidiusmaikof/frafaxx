@@ -1282,3 +1282,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 06:21:09.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
 [19Jul2025 06:34:36.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [19Jul2025 06:37:05.258] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[19Jul2025 07:59:21.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Disconnected
+[19Jul2025 07:59:21.363] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[19Jul2025 07:59:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game
+[19Jul2025 07:59:41.896] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 07:59:44.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:64665] logged in with entity id 42444 at (-1858.9918882602542, 124.0, 4472.323510096824)
+[19Jul2025 07:59:44.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[19Jul2025 07:59:45.233] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[19Jul2025 07:59:45.233] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 07:59:48.684] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[19Jul2025 07:59:51.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 07:59:52.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 07:59:52.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
