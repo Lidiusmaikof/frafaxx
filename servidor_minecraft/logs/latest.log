@@ -1236,3 +1236,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 05:37:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Cover Me in Debris]
 [19Jul2025 05:38:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Crafting a New Look]
 [19Jul2025 05:47:44.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerBedEnterEvent$BedEnterResult
+[19Jul2025 05:54:50.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a 100 https://drive.google.com/file/d/1FlEPUgxzDgfRombk3leld-cQ-mu2drQr/view?usp=sharing
+[19Jul2025 05:54:50.403] [Server thread/INFO] [com.github.NGoedix.watchvideo.Reference/]: Not blocked
+[19Jul2025 05:56:10.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a 10 https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
+[19Jul2025 05:56:10.796] [Server thread/INFO] [com.github.NGoedix.watchvideo.Reference/]: Not blocked
+[19Jul2025 05:59:17.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
+[19Jul2025 06:03:18.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /playvideo @a https://drive.google.com/file/d/1E941tfoNPU3kVWck1svAGF6T1LEBhGfM/view?usp=sharing
