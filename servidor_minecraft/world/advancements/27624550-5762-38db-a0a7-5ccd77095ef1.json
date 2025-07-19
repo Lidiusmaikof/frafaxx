@@ -7201,6 +7201,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-07-19 05:38:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
@@ -7216,6 +7222,18 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-19 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-07-19 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-19 05:37:34 +0000"
     },
     "done": true
   },

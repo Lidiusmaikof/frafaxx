@@ -12307,3 +12307,12 @@ java.lang.IllegalStateException: Asynchronous effect add!
 [19Jul2025 05:31:34.944] [VoiceChatPacketProcessingThread/CONFIG] [voicechat/]: Set state of LastSamurai to connected: {disabled=false, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
 [19Jul2025 05:31:34.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
 [19Jul2025 05:31:35.236] [Server thread/CONFIG] [voicechat/]: Got state of LastSamurai: {disabled=true, disconnected=false, uuid=f08c47eb-26eb-36d0-a859-9f0514ff2af7, name=LastSamurai, group=null}
+[19Jul2025 05:36:23.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 05:36:23.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 05:36:38.544] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/inventory/RepairContainerMixin$1
+[19Jul2025 05:36:38.545] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/VanillaAnvilMenu$1
+[19Jul2025 05:36:38.546] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fuzs/easyanvils/world/inventory/ModAnvilMenu$1
+[19Jul2025 05:37:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has completed the challenge [Cover Me in Debris]
+[19Jul2025 05:38:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Crafting a New Look]
+[19Jul2025 05:41:23.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 05:41:23.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
