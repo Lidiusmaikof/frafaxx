@@ -1110,3 +1110,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 04:15:51.694] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VenaticWinner67> uthaaa
 [19Jul2025 04:15:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [The Dust Settles]
 [19Jul2025 04:18:10.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Jul2025 04:22:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Hellish Paradise]
+[19Jul2025 04:22:36.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Hellish Paradise]
+[19Jul2025 04:26:56.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[19Jul2025 04:27:24.701] [Worker-Main-9/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:27:24.704] [Worker-Main-9/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:27:24.705] [Worker-Main-9/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:27:24.705] [Worker-Main-9/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:29:30.878] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19Jul2025 04:29:30.942] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[19Jul2025 04:29:33.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind

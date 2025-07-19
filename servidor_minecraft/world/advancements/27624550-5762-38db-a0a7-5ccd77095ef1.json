@@ -6888,6 +6888,7 @@
     "criteria": {
       "incendium:ash_barrens": "2025-07-19 04:13:53 +0000",
       "incendium:weeping_valley": "2025-07-18 22:00:04 +0000",
+      "incendium:quartz_flats": "2025-07-19 04:22:34 +0000",
       "incendium:inverted_forest": "2025-07-18 22:41:05 +0000",
       "incendium:toxic_heap": "2025-07-18 21:40:13 +0000"
     },
@@ -7199,6 +7200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-07-19 04:04:47 +0000"
@@ -7211,9 +7218,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-07-19 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-19 04:22:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-19 04:22:34 +0000"
     },
     "done": true
   },
