@@ -1137,3 +1137,13 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 04:50:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito fell from a high place
 [19Jul2025 04:50:14.227] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
 [19Jul2025 04:50:14.228] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[19Jul2025 04:52:51.309] [Worker-Main-24/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:52:51.325] [Worker-Main-24/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:52:51.326] [Worker-Main-24/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[19Jul2025 04:53:51.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/HopperInventorySearchEvent$ContainerType
+[19Jul2025 04:55:28.298] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[19Jul2025 04:57:19.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [A Terrible Fortress]
+[19Jul2025 04:57:28.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [A Terrible Fortress]
+[19Jul2025 04:57:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Into Fire]
+[19Jul2025 04:58:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Into Fire]
+[19Jul2025 05:01:48.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
