@@ -1147,3 +1147,39 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 04:57:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito has made the advancement [Into Fire]
 [19Jul2025 04:58:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Into Fire]
 [19Jul2025 05:01:48.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[19Jul2025 05:06:39.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[19Jul2025 05:06:39.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[19Jul2025 05:06:39.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:06:48.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Timed out
+[19Jul2025 05:06:48.720] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[19Jul2025 05:06:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[19Jul2025 05:06:48.799] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 05:07:34.482] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:07:36.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:63384] logged in with entity id 20448 at (-1855.6817961641905, 123.0, 4450.827165212178)
+[19Jul2025 05:07:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[19Jul2025 05:07:37.471] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[19Jul2025 05:07:37.471] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:07:41.700] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[19Jul2025 05:07:44.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:07:46.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:07:46.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[19Jul2025 05:10:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VenaticWinner67 has made the advancement [Spooky Scary Skeleton]
+[19Jul2025 05:10:45.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player f08c47eb-26eb-36d0-a859-9f0514ff2af7 timed out
+[19Jul2025 05:10:45.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player LastSamurai
+[19Jul2025 05:10:45.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:10:51.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastSamurai lost connection: Timed out
+[19Jul2025 05:10:51.674] [Server thread/INFO] [voicechat/]: Disconnecting client LastSamurai
+[19Jul2025 05:10:51.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai left the game.
+[19Jul2025 05:10:51.745] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 05:11:32.778] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LastSamurai is f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:11:34.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastSamurai[/100.73.117.118:63723] logged in with entity id 22016 at (-1849.1784812016315, 123.0, 4448.183446833486)
+[19Jul2025 05:11:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastSamurai joined the game
+[19Jul2025 05:11:35.502] [Server thread/INFO] [voicechat/]: Received secret request of LastSamurai (18)
+[19Jul2025 05:11:35.502] [Server thread/INFO] [voicechat/]: Sent secret to LastSamurai
+[19Jul2025 05:11:39.499] [Server thread/INFO] [do_a_barrel_roll/]: Client of LastSamurai accepted server config.
+[19Jul2025 05:11:41.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:11:42.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player f08c47eb-26eb-36d0-a859-9f0514ff2af7
+[19Jul2025 05:11:42.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player LastSamurai (f08c47eb-26eb-36d0-a859-9f0514ff2af7) successfully connected to voice chat
+[19Jul2025 05:11:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Wither Skeleton
+[19Jul2025 05:11:54.273] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
+[19Jul2025 05:11:54.277] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved

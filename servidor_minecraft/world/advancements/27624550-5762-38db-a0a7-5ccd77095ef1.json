@@ -7305,6 +7305,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-19 05:10:19 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-07-19 04:22:34 +0000"
@@ -7320,6 +7326,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-19 04:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-19 05:10:19 +0000"
     },
     "done": true
   },
