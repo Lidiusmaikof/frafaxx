@@ -1183,3 +1183,20 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19Jul2025 05:11:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Linoxito is bleeding. Linoxito was slain by Wither Skeleton
 [19Jul2025 05:11:54.273] [Server thread/WARN] [tombstone/]: The death event of the player Linoxito was canceled by another mod
 [19Jul2025 05:11:54.277] [Server thread/INFO] [tombstone/]: The player Linoxito has successfully been saved
+[19Jul2025 05:14:16.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Jul2025 05:14:28.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[19Jul2025 05:15:24.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[19Jul2025 05:17:43.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/PortalCreateEvent$CreateReason
+[19Jul2025 05:17:49.758] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[19Jul2025 05:17:50.337] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[19Jul2025 05:17:56.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6707ms or 134 ticks behind
+[19Jul2025 05:17:57.001] [Server thread/INFO] [do_a_barrel_roll/]: Client of VenaticWinner67 accepted server config.
+[19Jul2025 05:17:58.150] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[19Jul2025 05:17:58.614] [Server thread/INFO] [do_a_barrel_roll/]: Client of Linoxito accepted server config.
+[19Jul2025 05:17:59.782] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[19Jul2025 05:18:08.582] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[19Jul2025 05:18:08.582] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[19Jul2025 05:21:10.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp @s -2293 121.5 4786
+[19Jul2025 05:21:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported VenaticWinner67 to -2292.500000, 121.500000, 4786.500000]
+[19Jul2025 05:21:35.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VenaticWinner67 issued server command: /tp Linoxito VenaticWinner67
+[19Jul2025 05:21:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VenaticWinner67: Teleported Linoxito to VenaticWinner67]
